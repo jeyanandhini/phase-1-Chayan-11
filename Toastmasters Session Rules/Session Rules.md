@@ -1,9 +1,13 @@
-🔍 All about Toastmasters
+<h1>🔍 All about Toastmasters </h1>
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 👉 What is Toastmasters?
 Toastmasters International is often at the first glance seen as just a Public Speaking platform but is actually a Leadership Development platform as well.
 
-🔍 All about Executive committee
+
+<h2>🔍 All about Executive committee </h2>
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 
 At a club level, the Executive Committee consists of eight members who are elected by the club members who then for the next one term become the face of the club 
 and represent their club at various area and division council meetings.
@@ -19,8 +23,8 @@ Club Treasurer
 Sergeant at Arms
 Immediate Past President
 
-Read about the roles and responsibilities here 👇
-["Roles and Responsibilities"](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities)
+📌 Read about the roles and responsibilities here 👉
+["Executive Committee roles and responsibilities"](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities)
 
 👉 Toastmasters Meeting Rules:- 
 
@@ -46,4 +50,4 @@ c) Place your camera at a good angle and make sure to have a good wifi so that e
 d) Make sure not to use filler words (like ughh, umm, ahh, you know, etc) and repetitive words while presenting
 e) Most importantly listen to the speakers and note important takeaways from their talks. "A good Speaker is first a good Listener" 
 
---------------------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
