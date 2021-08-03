@@ -4,17 +4,17 @@
 
 
 
->1. [Enrolling into **Learning how to Learn by Coursera**](https://www.coursera.org/learn/learning-how-to-learn) 
+>🔴 [Enrolling into **Learning how to Learn by Coursera**](https://www.coursera.org/learn/learning-how-to-learn) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->2. [Learning about **Open Source Guides**](https://opensource.guide/)
+>🔴 [Learning about **Open Source Guides**](https://opensource.guide/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->3. [Go through and **learn about LaTeX**](https://en.wikipedia.org/wiki/LaTeX)
+>🔴 [Go through and **learn about LaTeX**](https://en.wikipedia.org/wiki/LaTeX)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->4. [Applying for **GitHub Student Developer Pack**](https://education.github.com/pack)
+>🔴 [Applying for **GitHub Student Developer Pack**](https://education.github.com/pack)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->5. [Learning about **How to use Overleaf**](https://www.overleaf.com/)
+>🔴 [Learning about **How to use Overleaf**](https://www.overleaf.com/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->6. [Documenting the important highlighting points on **How McDonald's was build?**](https://www.youtube.com/watch?v=fZhjv058j6o   )
+>🔴 [Documenting the important highlighting points on **How McDonald's was build?**](https://www.youtube.com/watch?v=fZhjv058j6o   )
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->7. [Follow **Kevin Naughton Jr.** for Programming guidance](https://www.youtube.com/c/KevinNaughtonJr/playlists)
+>🔴 [Follow **Kevin Naughton Jr.** for Programming guidance](https://www.youtube.com/c/KevinNaughtonJr/playlists)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
