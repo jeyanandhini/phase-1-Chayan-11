@@ -14,5 +14,5 @@
 **4. [Lessons and Takeaways from the fall of MySpace!](https://www.convinceandconvert.com/social-media-strategy/6-lessons-learned-from-the-demise-of-myspace/)**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**5. The Full story of Rise and Fall of MySpace is out [here](https://www.ft.com/content/fd9ffd9c-dee5-11de-adff-00144feab49a)**
+**5. The Full story of Rise and Fall of MySpace is out [here](https://www.theatlantic.com/technology/archive/2011/01/the-rise-and-fall-of-myspace/69444/)**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
