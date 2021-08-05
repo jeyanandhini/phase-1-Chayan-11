@@ -5,6 +5,6 @@
 
 ---------------------------------------------------------------------
 
-- [X] **Day-2:-** [Functions Revision from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Functions)  and  [Multi-Dimensional Arrays tutorial from Let Us C and GFG](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Multi-Dimensional%20Array)
+- [X] **Day-2:-** [Functions Revision from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Functions)  and  [Multi-Dimensional Arrays tutorial from Let Us C and Neso Academy](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Multi-Dimensional%20Array)
 
 ----------------------------------------------------------------------
