@@ -12,3 +12,7 @@
 - [X] **Day-3:-** [Arrays Revision and problem solving from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Arrays)  and  [Strings problem solving from Neso Academy](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Strings)
 
 ------------------------------------------------------------------------
+
+- [X] **Day-4:-** **Had an amazing ToastMaster Session with CleanHand Intermediate Team** and [Problem Solving in Pointers from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Pointers)
+
+------------------------------------------------------------------------
