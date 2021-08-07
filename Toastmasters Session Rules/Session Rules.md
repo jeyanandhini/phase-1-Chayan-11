@@ -1,44 +1,43 @@
-**🔍 All about Toastmasters**
+   # All about Toastmasters
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-👉 What is Toastmasters?
+### ♦ What is Toastmasters?
 
 Toastmasters International is often at the first glance seen as just a Public Speaking platform but is actually a Leadership Development platform as well.
 
 
-**🔍 All about Executive committee**
+### ♦ All about Executive committee
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-At a club level, the Executive Committee consists of eight members who are elected by the club members who then for the next one term become the face of the club 
-and represent their club at various area and division council meetings.
+At a club level, the Executive Committee consists of eight members who are elected by the club members who then for the next one term become the face of the club and represent their club at various area and division council meetings.
 
-👉 The eight members that comprise the Executive Committee at club level are:- 
+* ### The eight members that comprise the Executive Committee at club level are:- 
 
-*Club President*
+     *Club President*
 
-*Vice President of Education*
+     *Vice President of Education*
 
-*Vice President of Membership*
+     *Vice President of Membership*
 
-*Vice President of Public Relations*
+     *Vice President of Public Relations*
 
-*Club Secretary*
+     *Club Secretary*
 
-*Club Treasurer*
+     *Club Treasurer*
 
-*Sergeant at Arms*
+     *Sergeant at Arms*
 
-*Immediate Past President*
-
-
-*📌 Read about the roles and responsibilities here:-
-[Executive Committee roles and responsibilities](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities)*
+     *Immediate Past President*
 
 
+* ### Read about the roles and responsibilities here:-
+     **[Executive Committee roles and responsibilities](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities)**
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<h3>👉 Toastmasters Meeting Rules:- </h3>
+### ♦ Toastmasters Meeting Rules:- 
 
 a) Don't unmute yourself unless the present speaker gets off the stage or ends his talk
 
@@ -50,8 +49,9 @@ d) Adress everyone with the phrase of Toastmaster followed by their names
 
 e) Do turn on the cam to have a better interactive session and enhances getting out of our comfort zones
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>👉 Session Proceedings:-</h3>
+### ♦ Session Proceedings:-
 
 a) A theme would be presented and speakers would be given a chance to put their views on the topic with a time limit of 7 minutes
 
@@ -59,8 +59,9 @@ b) There is Table Topic Round which is a shorter format where speakers get appro
 
 c) The Evaluator Round where the General Evaluator puts on his/her reports on session evaluation 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>👉 Important Takeaways for future presentations:- </h3>
+### ♦ Important Takeaways for future presentations:- 
 
 a) Most Imporatant feature of speech delivery is Voice Modulation, 
    so record yourself in different tones (sad, excited, flat, high, irritated, etc) and try to improvize accordingly while preparing for speeches
