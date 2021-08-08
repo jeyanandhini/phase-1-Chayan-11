@@ -16,3 +16,7 @@
 - [X] **Day-4:-** **Had an amazing ToastMaster Session with CleanHand Intermediate Team** and [Problem Solving in Pointers from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Pointers)
 
 ------------------------------------------------------------------------
+
+- [X] **Day-5:-** **Day off (Weekend Break)**
+
+------------------------------------------------------------------------
