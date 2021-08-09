@@ -20,3 +20,7 @@
 - [X] **Day-5:-** **Day off (Weekend Break)**
 
 ------------------------------------------------------------------------
+
+- [X] **Day-6:-** [Pointers problem solving from let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Pointers) and [Strings problem solving](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Strings)
+
+------------------------------------------------------------------------
