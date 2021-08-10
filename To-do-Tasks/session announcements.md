@@ -1,20 +1,23 @@
- <h3> 📌 Some of the simple to-do tasks are listed below:-  </h3>
+### ⭐ Some of the simple to-do tasks are listed below:-  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
->🔴 [Enrolling into **Learning how to Learn by Coursera**](https://www.coursera.org/learn/learning-how-to-learn) 
+- [X] [Enrolling into **Learning how to Learn by Coursera**](https://www.coursera.org/learn/learning-how-to-learn) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->🔴 [Learning about **Open Source Guides**](https://opensource.guide/)
+- [X] [Learning about **Open Source Guides**](https://opensource.guide/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->🔴 [Go through and **learn about LaTeX**](https://en.wikipedia.org/wiki/LaTeX)
+- [X] [Go through and **learn about LaTeX**](https://en.wikipedia.org/wiki/LaTeX)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->🔴 [Applying for **GitHub Student Developer Pack**](https://education.github.com/pack)
+- [X] [Applying for **GitHub Student Developer Pack**](https://education.github.com/pack)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->🔴 [Learning about **How to use Overleaf**](https://www.overleaf.com/)
+- [X] [Learning about **How to use Overleaf**](https://www.overleaf.com/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->🔴 [Documenting the important highlighting points on **How McDonald's was build?**](https://www.youtube.com/watch?v=fZhjv058j6o   )
+- [X] [Documenting the important highlighting points on **How McDonald's was build?**](https://www.youtube.com/watch?v=fZhjv058j6o   )
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
->🔴 [Follow **Kevin Naughton Jr.** for Programming guidance](https://www.youtube.com/c/KevinNaughtonJr/playlists)
+- [X] [Follow **Kevin Naughton Jr.** for Programming guidance](https://www.youtube.com/c/KevinNaughtonJr/playlists)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [Watch Introduction to MicroProcessors by Bharat Acharya Ed.](https://www.youtube.com/watch?v=Xl2nWDcy0To)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [Follow the video on Why to learn Assembly language?](https://www.youtube.com/watch?v=iYRl50gtprA)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
