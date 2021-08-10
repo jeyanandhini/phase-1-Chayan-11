@@ -24,3 +24,7 @@
 - [X] **Day-6:-** [Pointers problem solving from let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Pointers) and [Strings problem solving](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Strings)
 
 ------------------------------------------------------------------------
+
+- [X] **Day-7:-** **Read about Static and Dynamic Scoping and** [Recursion](https://www.youtube.com/watch?v=ggk7HbcnLG8&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&index=75)
+
+------------------------------------------------------------------------
