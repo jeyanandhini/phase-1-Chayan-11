@@ -34,5 +34,4 @@
 ------------------------------------------------------------------------
 
 - [X] **Day-9:-** **Had an amazing evening with Dr. Shashi Tharoor ❤ where he briefed about the practices he followed to earn the level he's in now!**
-
 -----------------------------------------------------------------------
