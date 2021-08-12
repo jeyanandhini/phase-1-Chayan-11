@@ -30,4 +30,9 @@
 ------------------------------------------------------------------------
 
 - [X] **Day-8:-** [Learned about Assembly Language and it's significance](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Research%20Topics/Need%20of%20Assembly%20langauge%20.md)
+
 ------------------------------------------------------------------------
+
+- [X] **Day-9:-** **Had an amazing evening with Dr. Shashi Tharoor ❤ where he briefed about the practices he followed to earn the level he's in now!**
+
+-----------------------------------------------------------------------
