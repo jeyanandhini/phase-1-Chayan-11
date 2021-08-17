@@ -33,7 +33,7 @@
 
 ------------------------------------------------------------------------
 
-- [X] **Day-9:-** **Had an amazing evening with Dr. Shashi Tharoor ❤ where he briefed about the practices he followed to earn the level he's in now!**
+- [X] **Day-9:-** **An amazing evening with Dr. Shashi Tharoor ❤ where he briefed about the practices he followed to earn his stripes!**
 
 -----------------------------------------------------------------------
 
@@ -45,6 +45,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-12:-** **Got started with basic DS tutorial**
+- [X] **Day-12:-** **Got started with basic DS tutorial and learned about [Structures](https://github.com/Chayan-11/c-cpp-codes/tree/main/Structures)**
 
 -----------------------------------------------------------------------
