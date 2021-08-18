@@ -48,3 +48,7 @@
 - [X] **Day-12:-** **Got started with basic DS tutorial and learned about [Structures](https://github.com/Chayan-11/c-cpp-codes/tree/main/Structures)**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-13:-** **Learned about [Generic Pointers](https://www.youtube.com/watch?v=Co3aTgnxQoM) and documented learnings from Dr. Tharoor's session!**
+
+-----------------------------------------------------------------------
