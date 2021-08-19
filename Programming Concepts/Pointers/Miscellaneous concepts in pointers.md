@@ -1,4 +1,7 @@
-## <p align="center"> 💭 Pointers Concepts </p>
+------------------------------------------------------------------------------------
+## <p align="center"> 💭 Arithmetic Pointers Concepts </p>
+
+**♦ Brief Explanation :-** 
 
 * **We can perform arithmetic operations on the pointers like addition, subtraction, etc.** 
 * **However, as we know that pointer contains the address, the result of an arithmetic operation performed on the pointer will also be a pointer if the other operand is of type integer.**
