@@ -49,7 +49,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-13:-** **Learned about [Generic Pointers](https://www.youtube.com/watch?v=Co3aTgnxQoM) and documented learnings from Dr. Tharoor's session!**
+- [X] **Day-13:-** **Learned about [Generic Pointers](https://www.youtube.com/watch?v=Co3aTgnxQoM) and documented learnings from [Dr. Tharoor's session](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Toastmasters%20Iconic%20Voices%20Event)💕**
 
 -----------------------------------------------------------------------
 
