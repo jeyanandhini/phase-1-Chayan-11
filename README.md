@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# <p align="center"> :wave: The Basics of GitHub  </p> 
 
 ## 🤓 Course overview and learning outcomes 
 
