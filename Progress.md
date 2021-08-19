@@ -52,3 +52,7 @@
 - [X] **Day-13:-** **Learned about [Generic Pointers](https://www.youtube.com/watch?v=Co3aTgnxQoM) and documented learnings from Dr. Tharoor's session!**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-14:-** **Researched about various [Foreign Internships](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Foreign%20Internships) to apply for !✈**
+
+-----------------------------------------------------------------------
