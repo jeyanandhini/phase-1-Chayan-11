@@ -56,3 +56,5 @@
 - [X] **Day-14:-** **Researched about various [Foreign Internships](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Foreign%20Internships) to apply for !✈**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-15:-** **Learning concept of Array and researched about concepts discussed in class regarding [arrays & pointers](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/To-do-Tasks/session%20announcements.md)**
