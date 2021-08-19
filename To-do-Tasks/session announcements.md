@@ -1,6 +1,5 @@
-### ⭐ Some of the simple to-do tasks are listed below:-  
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## <p align="center"> ⭐ <b>Simple to-do tasks are listed below:- </b> </p> 
 
 
 - [X] [Enrolling into **Learning how to Learn by Coursera**](https://www.coursera.org/learn/learning-how-to-learn) 
@@ -22,4 +21,14 @@
 - [X] [Follow the video on Why to learn Assembly language?](https://www.youtube.com/watch?v=iYRl50gtprA)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 - [X] [For Pointers concept follow Computerphile](https://www.youtube.com/watch?v=t5NszbIerYc)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**Pointer to Pointer** concept by **mycodeschool**](https://www.youtube.com/watch?v=d3kd5KbGB48)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [Editorial and proper documentation of **Pointer to Pointer (Double pointer concept)**](https://www.javatpoint.com/c-pointer-to-pointer)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**Call by reference** concept by **mycodeschool**](https://www.youtube.com/watch?v=LW8Rfh6TzGg)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**Call by value and Call by reference** editorial and documention](https://www.javatpoint.com/call-by-value-and-call-by-reference-in-c)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**Concept of Zero Indexing in Arrays**](https://medium.com/swlh/zero-indexed-arrays-f752a47abf65)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
