@@ -58,3 +58,8 @@
 -----------------------------------------------------------------------
 
 - [X] **Day-15:-** **Learning concept of Array and researched about concepts discussed in class regarding [arrays & pointers](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/To-do-Tasks/session%20announcements.md)**
+-----------------------------------------------------------------------
+
+- [X] **Day-16:-** **Day off (Weekend Break)**
+
+-----------------------------------------------------------------------
