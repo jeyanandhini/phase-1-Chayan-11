@@ -1,5 +1,5 @@
 ----------------------------------------------------------
-## ⭐ **What is Assembly language?**
+### <p align="center"> ⏳ What is Assembly language ? </p>
 ----------------------------------------------------------
 
 * **Assembly is a human readable machine language, which is considered as an intermediate language that C compiler uses while compiling C codes.**
@@ -12,7 +12,7 @@ University of London following work with John von Neumann and Herman Goldstine a
 * **To know more about Assembly Language click** [here](https://en.wikipedia.org/wiki/Assembly_language)
 ----------------------------------------------------------
 
-## ⭐ **Significance of Assembly Language:-** 
+### <p align="center"> ⭐ Significance of Assembly Language </p>
 ----------------------------------------------------------
 
 * **It comes handy when you're trying to make sense out of any mistake or abnormal feature in programming behaviour.**
@@ -22,7 +22,7 @@ University of London following work with John von Neumann and Herman Goldstine a
 * **It is time efficient, consumes less memory and also helpful in Hardware Manipulation & Processor Instructions.**
 ---------------------------------------------------------
 
-## ⭐ **Why should we learn Assembly language?**
+### <p align="center"> 🤔 Why should we learn Assembly language? </p>
 ---------------------------------------------------------
 
 * **Learning the Assembly Language is quintessential for programmers.**
