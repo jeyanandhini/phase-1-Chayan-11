@@ -1,4 +1,6 @@
-## Hearing it out from the voice of Dr. Shashi Tharoor
+-------------------------------------------------------------------
+
+### <p align="center"> 🔶🔸 Hearing it out from the voice of Dr. Shashi Tharoor 🔹🔷 </p>
 
 -------------------------------------------------------------------
 
@@ -8,7 +10,8 @@ where I got a chance to share a virtual stage with Dr. Shashi Tharoor and other 
 
 -----------------------------------------------------------------------
 
-## 📚 **Here, are some of the learnings I could gather from the sessions:-**
+### <p align="center"> 📚 Here, are some of the learnings I could gather from the sessions:- </p>
+-------------------------------------------------------------------
 
 * **Not everyone of us gets the privelege to study from the best of the schools or colleges but we can still open our learning scope to an extent that we get to cover the missing jigsaw puzzles in our development. Dr. Tharoor had the privelege as well as monetary and mental support from his parents which helped him in long run to become a better speaker as he mentioned that they use to have eloquitions, debates and learning culture which helped him in his exponential learning curve.**
 
