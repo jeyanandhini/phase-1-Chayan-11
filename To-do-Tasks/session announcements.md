@@ -30,9 +30,13 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 - [X] [**Call by value and Call by reference** editorial and documention](https://www.javatpoint.com/call-by-value-and-call-by-reference-in-c)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-- [X] [**Concept of Zero Indexing in Arrays**](https://medium.com/swlh/zero-indexed-arrays-f752a47abf65)
+- [X] [**Concept of *Zero Indexing* in Arrays**](https://medium.com/swlh/zero-indexed-arrays-f752a47abf65)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 - [X] [**What is the difference between int(asterisk) P and int (asterisk)P ?**](https://stackoverflow.com/questions/5590150/difference-between-int-p-and-int-p-declaration)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-- [X] [**Concept of TypeCasting in C**](https://developerinsider.co/type-casting-c-programming/)
+- [X] [**Concept of *TypeCasting* in C**](https://developerinsider.co/type-casting-c-programming/)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**All about *Punch Card programming* by Computerphile**](https://www.youtube.com/watch?v=KG2M4ttzBnY)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**Explanation of *Turing Machines* by Computerphile**](https://www.youtube.com/watch?v=dNRDvLACg5Q)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
