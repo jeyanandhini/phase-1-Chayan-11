@@ -1,4 +1,4 @@
-### <p align="center"> 👑 G.O.A.T in CS domain  </p>
+### <p align="center"> 👨‍💻 Creators in Computer Science Domain ❤ </p>
 
 -----------------------------------------------------
 
