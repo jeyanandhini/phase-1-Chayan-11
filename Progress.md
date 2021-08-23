@@ -1,4 +1,4 @@
-# ⏳ Daily Progress Tracker 🚶‍♂️
+### <p align="center"> ⏳ Daily Progress Tracker 🚶‍♂️ </p>
 
 -----------------------------------------------------------------
 - [X] **Day-1:-** [Recursion tutorial from YouTube and practiced few problems from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Recursion) 
@@ -65,5 +65,9 @@
 -----------------------------------------------------------------------
 
 - [X] **Day-17:-** **Day off (Weekend Break)**
+
+-----------------------------------------------------------------------
+
+- [X] **Day-18:-** **Learning the concept of [Linear Search](https://www.youtube.com/watch?v=EqWpRlZkWNM) and [Binary search](https://www.youtube.com/watch?v=HlEz93t628E) and updated the [To-do Tasks](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/To-do-Tasks/session%20announcements.md) List !**
 
 -----------------------------------------------------------------------
