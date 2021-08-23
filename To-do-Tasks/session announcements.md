@@ -40,3 +40,13 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 - [X] [**Explanation of *Turing Machines* by Computerphile**](https://www.youtube.com/watch?v=dNRDvLACg5Q)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**All about *Cache Memory* in Computer Organization**](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**All about *Register Memory* in Computer Organization**](https://www.javatpoint.com/register-memory)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**All about *RAM* in Computer Organization**](https://www.tutorialspoint.com/computer_fundamentals/computer_ram.htm)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**What is the difference between *Cache, RAM and Register* in terms of Data Storage?**](https://www.quora.com/What-is-the-difference-between-cache-RAM-and-register-in-terms-of-data-they-store/answer/Ira-J-Perlow)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**What is the difference between *Compilation and Running* of a program?**](https://www.javatpoint.com/compile-time-vs-runtime#:~:text=Compile%2Dtime%20and%20Runtime%20are,executable%20code%20is%20started%20running.)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
