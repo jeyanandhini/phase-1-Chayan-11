@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-## <p align="center"> ⭐ <b>Simple to-do tasks are listed below:- </b> </p> 
+## <p align="center"> 🎯 <b>Simple to-do tasks are listed below:- </b> </p> 
 
 
 - [X] [Enrolling into **Learning how to Learn by Coursera**](https://www.coursera.org/learn/learning-how-to-learn) 
