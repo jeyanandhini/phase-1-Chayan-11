@@ -14,3 +14,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 > * [**Why were Punch Cards being used for programming in 1970s?**](https://softwareengineering.stackexchange.com/questions/262723/why-were-punch-cards-used-for-programming)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+> * [**What is the diffference between Cache Memory and Registers?**](https://www.geeksforgeeks.org/difference-between-cache-memory-and-register/)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
