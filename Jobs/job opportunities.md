@@ -6,3 +6,5 @@
 ------------------------------------------------------------------
 * [**Goldman Sachs Student Programs**](https://www.goldmansachs.com/careers/students/programs/)
 ------------------------------------------------------------------
+* [**TSMC (Taiwan) Career Page**](https://www.tsmc.com/static/english/careers/index.htm)
+------------------------------------------------------------------
