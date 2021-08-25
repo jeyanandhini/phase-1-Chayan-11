@@ -35,6 +35,8 @@
 - [X] **[Student Application](https://globalink.mitacs.ca/#/student/application/welcome) for 2022 academic year is out! Apply before 22nd September.**
 
 
+#### <p align="center"> ◻ NOTE:- ❌ NIT Agartala isn't registered in MITACS Program </p> 
+
 --------------------------------------------------------------------------------------------
 
 <p align="center">  Give it a ⭐ if you find it useful! </p>
