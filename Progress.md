@@ -75,3 +75,7 @@
 - [X] **Day-19:-** **Learning concept of [sub-arrays](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Arrays/sub-arrays.c) and [Seive of Eratosthenes](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Random%20Discussions/Eratosthenes.md)**  
 
 -----------------------------------------------------------------------
+
+- [X] **Day-20:-** **Learning concept of finding the sum of largest sub-array and finding the maximum value in a given array**
+
+-----------------------------------------------------------------------
