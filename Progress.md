@@ -79,3 +79,8 @@
 - [X] **Day-20:-** **Learning concept of finding the sum of largest sub-array and finding the maximum value in a given array**
 
 -----------------------------------------------------------------------
+
+
+- [X] **Day-21:-** **Manipulating and practicing problems on Sub-arrays**
+
+-----------------------------------------------------------------------
