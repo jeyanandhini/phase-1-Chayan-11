@@ -93,3 +93,7 @@
 - [X] **Day-23:-** **Day off (Weekend Break) + Algo Magnet Communication Session**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-24:-** **Visualized how sorting is done and learned about types of sorting from [VisuAlgo.net](https://visualgo.net/en/sorting)**
+
+-----------------------------------------------------------------------
