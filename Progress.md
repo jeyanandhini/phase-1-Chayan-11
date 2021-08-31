@@ -97,3 +97,7 @@
 - [X] **Day-24:-** **Visualized how sorting is done and learned about types of sorting from [VisuAlgo.net](https://visualgo.net/en/sorting)**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-25:-** **Research and think on the Partition concept and learned about Merge Sorting and emphasize on writing pseudo code**
+
+-----------------------------------------------------------------------
