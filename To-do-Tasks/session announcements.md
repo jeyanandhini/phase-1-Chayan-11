@@ -50,3 +50,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 - [X] [**What is the difference between *Compilation and Running* of a program?**](https://www.javatpoint.com/compile-time-vs-runtime#:~:text=Compile%2Dtime%20and%20Runtime%20are,executable%20code%20is%20started%20running.)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [X] [**Learn about Algorithms from "Introduction to Algorithms" by Thomas Cormen**](https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
