@@ -101,3 +101,7 @@
 - [X] **Day-25:-** **Research and think on the Partition concept and learned about Merge Sorting and emphasize on writing pseudo code**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-26:-** **Read about File Handling and make projects like Zipping of files**
+
+-----------------------------------------------------------------------
