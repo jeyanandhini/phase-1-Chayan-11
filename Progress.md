@@ -1,15 +1,15 @@
 ### <p align="center"> ⏳ Daily Progress Tracker 🚶‍♂️ </p>
 
 -----------------------------------------------------------------
-- [X] **Day-1:-** [Recursion tutorial from YouTube and practiced few problems from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Recursion) 
+- [X] **Day-1:-** **Recursion tutorial from YouTube and** [**practiced few problems from Let Us C**](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Recursion) 
 
 ---------------------------------------------------------------------
 
-- [X] **Day-2:-** [Functions Revision from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Functions)  and  [Multi-Dimensional Arrays tutorial from Let Us C and Neso Academy](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Multi-Dimensional%20Array)
+- [X] **Day-2:-** **[Functions Revision from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Functions)  and  [Multi-Dimensional Arrays tutorial](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Multi-Dimensional%20Array) from Let Us C and Neso Academy.**
 
 ----------------------------------------------------------------------
 
-- [X] **Day-3:-** [Arrays Revision and problem solving from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Arrays)  and  [Strings problem solving from Neso Academy](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Strings)
+- [X] **Day-3:-** **Arrays Revision and [problem solving from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Arrays)  and  [Strings problem solving](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Strings) from Neso Academy.**
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@
 
 ------------------------------------------------------------------------
 
-- [X] **Day-6:-** [Pointers problem solving from let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Pointers) and [Strings problem solving](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Strings)
+- [X] **Day-6:-** **[Pointers problem solving from let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Pointers) and [Strings problem solving](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Strings)**
 
 ------------------------------------------------------------------------
 
@@ -98,14 +98,14 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-25:-** **Research and think on the Partition concept and learned about Merge Sorting and emphasize on writing pseudo code**
+- [X] **Day-25:-** **Research and think on the Partition concept and [emphasize on writing pseudo codes](https://link.springer.com/content/pdf/bbm%3A978-1-4471-5173-9%2F1.pdf) and [Learning about Merge Sorting](https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.htm)**
 
 -----------------------------------------------------------------------
 
-- [X] **Day-26:-** **Read about File Handling and make projects like Zipping of files**
+- [X] **Day-26:-** **Read about [File Handling](https://www.tutorialspoint.com/basics-of-file-handling-in-c-programming) and make projects like Zipping of files**
 
 -----------------------------------------------------------------------
 
-- [X] **Day-27:-** **ToastMaster Session with ToastMaster Jakarta Motivators Club**
+- [X] **Day-27:-** **ToastMaster Session with [ToastMaster Jakarta Motivators Club](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Toastmasters%20Jakarta%20Motivators%20Club/Session%20Experience.md)💕**
 
 -----------------------------------------------------------------------
