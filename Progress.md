@@ -105,3 +105,7 @@
 - [X] **Day-26:-** **Read about File Handling and make projects like Zipping of files**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-27:-** **ToastMaster Session with ToastMaster Jakarta Motivators Club**
+
+-----------------------------------------------------------------------
