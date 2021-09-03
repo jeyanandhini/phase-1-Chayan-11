@@ -110,6 +110,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-28:-** **Concept of Maximum Heap and brief discussion on Trees.**
+- [X] **Day-28:-** **Concept of Maximum Heap and brief discussion on Trees and also learned about [Partition Algorithm](https://www.youtube.com/watch?v=MZaf_9IZCrc)**
 
 -----------------------------------------------------------------------
