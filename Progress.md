@@ -121,3 +121,7 @@
 - [X] **Day-30:-** **Teacher's Day Celebration with [AlgoMagnet Team](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Teacher's%20Day%20Celebration/session.md)💕**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-31:-** **Learned about 2D - Arrays**
+
+-----------------------------------------------------------------------
