@@ -125,3 +125,7 @@
 - [X] **Day-31:-** **Learned about 2D - Arrays**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-32:-** **Practiced and learned about Sorting Algorithms like [Bubble Sort](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Sorting%20Algorithms/Bubble%20Sort.md) and [Insertion Sort](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Sorting%20Algorithms/Insertion%20Sort%20Algorithm.md)**
+
+-----------------------------------------------------------------------
