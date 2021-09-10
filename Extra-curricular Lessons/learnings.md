@@ -27,7 +27,7 @@
 
 * **In corporate world you've to keep performing and put out your best for the sake of reputation and career growth.**
 
-* **Empower people around you and your community and take the lead to make sure the leadership role entitles you and remains justified !**
+* **Empower people around you, your community and take the lead to make sure the leadership role entitles you and remains justified !**
 
 * **Always be open to criticism and that would keep us moving forward learning from our mistakes.**
 
