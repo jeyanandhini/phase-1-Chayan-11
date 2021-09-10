@@ -133,3 +133,7 @@
 - [X] **Day-33:-** **Started with Strings**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-34:-** **Studying about DMA and documented key points from [Amit Sharma's video](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Extra-curricular%20Lessons/learnings.md)
+
+-----------------------------------------------------------------------
