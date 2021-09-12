@@ -141,3 +141,7 @@
 - [X] **Day-35:-** **Got started with [DMA](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Dynamic%20Memory%20Allocation) and memory management and researched about [Need of null termination in strings](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Research%20Topics/Need%20of%20null%20character%20termination.md)**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-36:-** **Weekend break with an amazing [AlgoMagnet Communication session with NITA Alumni Arijit sir](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Arijit%20Sen%20Chaudhuri%20sir/session.md)**
+
+-----------------------------------------------------------------------
