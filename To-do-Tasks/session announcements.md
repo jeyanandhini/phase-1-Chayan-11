@@ -122,3 +122,7 @@
 - [X] [**How Computer Memory Works by Computerphile**](https://www.youtube.com/watch?v=XETZoRYdtkw)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- [X] [**GitHub Doc to learn how to create an issue, creating PR, etc**](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
