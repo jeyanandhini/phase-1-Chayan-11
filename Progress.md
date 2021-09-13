@@ -145,3 +145,7 @@
 - [X] **Day-36:-** **Weekend break with an amazing [AlgoMagnet Communication session with NITA Alumni Arijit sir](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Arijit%20Sen%20Chaudhuri%20sir/session.md)💕**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-37:-** **Starting of 3rd sprint [agile methodology](https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/) and got to install GitHub desktop version. Read about [opensource.guide](https://opensource.guide/)**
+
+-----------------------------------------------------------------------
