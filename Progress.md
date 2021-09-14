@@ -149,3 +149,7 @@
 - [X] **Day-37:-** **Starting of 3rd sprint [agile methodology](https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/) and got to install GitHub desktop version. Read about [opensource.guide](https://opensource.guide/)**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-38:-** **[AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Alumni%20in%20Bocconni%20University/session.md) with NIT-A alumni currently in Bocconni University, Italy**
+
+-----------------------------------------------------------------------
