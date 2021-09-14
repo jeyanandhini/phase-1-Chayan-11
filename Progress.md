@@ -150,6 +150,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-38:-** **[AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Alumni%20in%20Bocconni%20University/session.md) with NIT-A alumni currently in Bocconni University, Italy**
+- [X] **Day-38:-** **[AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Alumni%20in%20Bocconni%20University/session.md)💕 with NIT-A alumni currently in Bocconni University, Italy**
 
 -----------------------------------------------------------------------
