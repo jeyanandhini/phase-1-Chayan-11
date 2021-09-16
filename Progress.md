@@ -157,3 +157,7 @@
 - [X] **Day-39:-** **Research and understand about the Projects maintained in [GSOC](https://summerofcode.withgoogle.com/projects/)**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-40:-** **AlgoMagnet Session with AMOD**
+
+-----------------------------------------------------------------------
