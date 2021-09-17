@@ -158,6 +158,10 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-40:-** **AlgoMagnet Session with AMOD**
+- [X] **Day-40:-** **Session on Linked List and read about [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)**
+
+-----------------------------------------------------------------------
+
+- [X] **Day-41:-** **Studied about Linked List basics and [how to create, display, access data in Linked List](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Linked%20List)**
 
 -----------------------------------------------------------------------
