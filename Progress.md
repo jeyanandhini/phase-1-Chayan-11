@@ -130,7 +130,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-33:-** **Started with Strings**
+- [X] **Day-33:-** **Got started with [Strings](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Strings)**
 
 -----------------------------------------------------------------------
 
