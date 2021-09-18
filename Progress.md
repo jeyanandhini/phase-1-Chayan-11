@@ -165,3 +165,7 @@
 - [X] **Day-41:-** **Studied about Linked List basics and [how to create, display, access data in Linked List](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Linked%20List)**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-42:-** **Researched about [Open Source Contribution](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Jobs/Everything%20about%20Open%20Source.md) and updated some Resources !**
+
+-----------------------------------------------------------------------
