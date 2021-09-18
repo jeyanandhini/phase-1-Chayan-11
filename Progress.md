@@ -33,7 +33,7 @@
 
 ------------------------------------------------------------------------
 
-- [X] **Day-9:-** **An amazing evening with Dr. Shashi Tharoor ❤ where he briefed about the practices he followed to earn his stripes!**
+- [X] **Day-9:-** **An amazing evening with [Dr. Shashi Tharoor](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Toastmasters%20Iconic%20Voices%20Event/Finding%20your%20voice%20in%20the%20Noise%20with%20Shashi%20Tharoor.md) ❤ where he briefed about the practices he followed to earn his stripes!**
 
 -----------------------------------------------------------------------
 
