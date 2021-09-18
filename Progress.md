@@ -76,7 +76,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-20:-** **Learning concept of finding the sum of largest sub-array and finding the maximum value in a given array**
+- [X] **Day-20:-** **Learning concept of [finding the sum of largest sub-array](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Arrays/sub-arrays.c) and finding the maximum value in a given array**
 
 -----------------------------------------------------------------------
 
