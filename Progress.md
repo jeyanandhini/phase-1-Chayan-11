@@ -169,3 +169,7 @@
 - [X] **Day-42:-** **Researched about [Open Source Contribution](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Jobs/Everything%20about%20Open%20Source.md) and updated some Resources !**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-43:-** **Weekend Break with [AlgoMagnet Communication Session on Open source](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Arijit%20Sen%20Chaudhuri%20sir/session.md) by Goldman Sachs Analyst Rajat Mittal Sir💕**
+
+-----------------------------------------------------------------------
