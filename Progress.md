@@ -174,6 +174,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-44:-** **[Learned about Linked List](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Linked%20List)**
+- [X] **Day-44:-** **Learned about [counting number of nodes, sum of elements, finding max element, searching](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Linked%20List) in Linked List**
 
 -----------------------------------------------------------------------
