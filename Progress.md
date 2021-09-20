@@ -1,7 +1,7 @@
 ### <p align="center"> ⏳ Daily Progress Tracker 🚶‍♂️ </p>
 
 -----------------------------------------------------------------
-- [X] **Day-1:-** **Recursion tutorial from YouTube and** [**practiced few problems from Let Us C**](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Recursion) 
+- [X] **Day-1:-** **Recursion tutorial from YouTube and [practiced few problems from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Recursion)** 
 
 ---------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 
 ------------------------------------------------------------------------
 
-- [X] **Day-4:-** **Had an amazing ToastMaster Session with CleanHand Intermediate Team** and [Problem Solving in Pointers from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Pointers)
+- [X] **Day-4:-** **Had an amazing ToastMaster Session with CleanHand Intermediate Team and [Problem Solving in Pointers from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Pointers)**
 
 ------------------------------------------------------------------------
 
@@ -25,27 +25,27 @@
 
 ------------------------------------------------------------------------
 
-- [X] **Day-7:-** **Read about Static and Dynamic Scoping and** [Recursion](https://www.youtube.com/watch?v=ggk7HbcnLG8&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&index=75)
+- [X] **Day-7:-** **Read about [Static & Dynamic Scoping](https://www.geeksforgeeks.org/static-and-dynamic-scoping/) and [Recursion](https://www.youtube.com/watch?v=ggk7HbcnLG8&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&index=75)**
 
 ------------------------------------------------------------------------
 
-- [X] **Day-8:-** [Learned about Assembly Language and it's significance](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Research%20Topics/Need%20of%20Assembly%20langauge%20.md)
+- [X] **Day-8:-** **Learned about [Assembly Language and it's significance](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Research%20Topics/Need%20of%20Assembly%20langauge%20.md)**
 
 ------------------------------------------------------------------------
 
-- [X] **Day-9:-** **An amazing evening with [Dr. Shashi Tharoor](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Toastmasters%20Iconic%20Voices%20Event/Finding%20your%20voice%20in%20the%20Noise%20with%20Shashi%20Tharoor.md) ❤ where he briefed about the practices he followed to earn his stripes!**
+- [X] **Day-9:-** **An amazing evening with [Dr. Shashi Tharoor](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Toastmasters%20Iconic%20Voices%20Event/Finding%20your%20voice%20in%20the%20Noise%20with%20Shashi%20Tharoor.md)💕 where he briefed about the practices he followed to earn his stripes!**
 
 -----------------------------------------------------------------------
 
-- [X] **Day-10:-** **Day off (Weekend break)**
+- [X] **Day-10:-** **Day off (Weekend Break)**
 
 -----------------------------------------------------------------------
 
- - [X] **Day-11:-** **Day off (Weekend break)**
+ - [X] **Day-11:-** **Day off (Weekend Break)**
 
 -----------------------------------------------------------------------
 
-- [X] **Day-12:-** **Got started with basic DS tutorial and learned about [Structures](https://github.com/Chayan-11/c-cpp-codes/tree/main/Structures)**
+- [X] **Day-12:-** **Got started with [Basic DS tutorial](https://www.tutorialspoint.com/data_structures_algorithms/data_structures_basics.htm) and learned about [Structures](https://github.com/Chayan-11/c-cpp-codes/tree/main/Structures)**
 
 -----------------------------------------------------------------------
 
@@ -57,7 +57,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-15:-** **Learning concept of Array and researched about concepts discussed in class regarding [arrays & pointers](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/To-do-Tasks/session%20announcements.md)**
+- [X] **Day-15:-** **Learning concept of [Array](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm) and researched about concepts discussed in class regarding [arrays & pointers](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/To-do-Tasks/session%20announcements.md)**
 -----------------------------------------------------------------------
 
 - [X] **Day-16:-** **Day off (Weekend Break)**
@@ -81,7 +81,7 @@
 -----------------------------------------------------------------------
 
 
-- [X] **Day-21:-** **Manipulating and practicing problems on Sub-arrays**
+- [X] **Day-21:-** **Manipulating and practicing problems on [Sub-arrays](http://www.algonotes.com/en/maximum-subarrays/)**
 
 -----------------------------------------------------------------------
 
@@ -90,7 +90,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-23:-** **Day off (Weekend Break) + Algo Magnet Communication Session**
+- [X] **Day-23:-** **Day off (Weekend Break) + [ToastMaster Communication Session with Samsung Bangalore TM Club](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Samsung%20Bangalore%20ToastMasters%20Club/Session%20Experience.md)**
 
 -----------------------------------------------------------------------
 
@@ -98,7 +98,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-25:-** **Research and think on the Partition concept and [emphasize on writing pseudo codes](https://link.springer.com/content/pdf/bbm%3A978-1-4471-5173-9%2F1.pdf) and [Learning about Merge Sorting](https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.htm)**
+- [X] **Day-25:-** **Researched and thought about the Partition concept and [emphasized on writing pseudo codes](https://link.springer.com/content/pdf/bbm%3A978-1-4471-5173-9%2F1.pdf) and [Learning about Merge Sorting](https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.htm)**
 
 -----------------------------------------------------------------------
 
@@ -110,7 +110,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-28:-** **Concept of Maximum Heap and brief discussion on Trees and also learned about [Partition Algorithm](https://www.youtube.com/watch?v=MZaf_9IZCrc)**
+- [X] **Day-28:-** **Learning the concept of [Maximum Heap](http://www.btechsmartclass.com/data_structures/max-heap.html) and [Tree](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm) and also learned about [Partition Algorithm](https://www.youtube.com/watch?v=MZaf_9IZCrc)**
 
 -----------------------------------------------------------------------
 
@@ -118,11 +118,11 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-30:-** **Teacher's Day Celebration with [AlgoMagnet Team](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Teacher's%20Day%20Celebration/session.md)💕**
+- [X] **Day-30:-** **Teacher's Day Celebration with AlgoMagnet Team and debut of [AlgoMagnet Communication Sessions](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Teacher's%20Day%20Celebration/session.md)💕**
 
 -----------------------------------------------------------------------
 
-- [X] **Day-31:-** **Learned about 2D - Arrays**
+- [X] **Day-31:-** **Learning about [2D-Arrays](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)**
 
 -----------------------------------------------------------------------
 
@@ -134,7 +134,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-34:-** **Studying about DMA and documented key points from [Amit Sharma's video](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Extra-curricular%20Lessons/learnings.md)**
+- [X] **Day-34:-** **Studying about [DMA](https://www.programiz.com/c-programming/c-dynamic-memory-allocation) and documented key points from [Amit Sharma's video](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Extra-curricular%20Lessons/learnings.md)**
 
 -----------------------------------------------------------------------
 
@@ -142,7 +142,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-36:-** **Weekend break with an amazing [AlgoMagnet Communication session with NITA Alumni Arijit sir](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Arijit%20Sen%20Chaudhuri%20sir/session.md)💕**
+- [X] **Day-36:-** **Weekend Break with an amazing [AlgoMagnet Communication session with NITA Alumni Arijit sir](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Arijit%20Sen%20Chaudhuri%20sir/session.md)💕**
 
 -----------------------------------------------------------------------
 
@@ -162,7 +162,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-41:-** **Studied about Linked List basics and [how to create, display, access data in Linked List](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Linked%20List)**
+- [X] **Day-41:-** **Studied about [Linked List basics](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm) and learned how to [create, display, access data in Linked List](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Linked%20List)**
 
 -----------------------------------------------------------------------
 
