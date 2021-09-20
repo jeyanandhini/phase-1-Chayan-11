@@ -13,7 +13,7 @@
 
 ------------------------------------------------------------------------
 
-- [X] **Day-4:-** **Had an amazing ToastMaster Session with CleanHand Intermediate Team and [Problem Solving in Pointers from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Pointers)**
+- [X] **Day-4:-** **Had an amazing ToastMaster Session with CleanHand Intermediate Team 💕 and [Problem Solving in Pointers from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Pointers)**
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-23:-** **Day off (Weekend Break) + [ToastMaster Communication Session with Samsung Bangalore TM Club](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Samsung%20Bangalore%20ToastMasters%20Club/Session%20Experience.md)**
+- [X] **Day-23:-** **Day off (Weekend Break) + ToastMaster Communication Session with [Samsung Bangalore ToastMasters Club](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Samsung%20Bangalore%20ToastMasters%20Club/Session%20Experience.md) 💕**
 
 -----------------------------------------------------------------------
 
@@ -170,7 +170,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-43:-** **Weekend Break with [AlgoMagnet Communication Session on Open source](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Arijit%20Sen%20Chaudhuri%20sir/session.md) by Goldman Sachs Analyst Rajat Mittal Sir💕**
+- [X] **Day-43:-** **Weekend Break with [AlgoMagnet Communication Session on Open source](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Arijit%20Sen%20Chaudhuri%20sir/session.md) by Goldman Sachs Analyst Rajat Mittal Sir 💕**
 
 -----------------------------------------------------------------------
 
