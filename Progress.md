@@ -98,7 +98,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-25:-** **Researched and thought about the Partition concept and [emphasized on writing pseudo codes](https://link.springer.com/content/pdf/bbm%3A978-1-4471-5173-9%2F1.pdf) and [Learning about Merge Sorting](https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.htm)**
+- [X] **Day-25:-** **Researched about the Partition concept and [emphasized on writing pseudo codes](https://link.springer.com/content/pdf/bbm%3A978-1-4471-5173-9%2F1.pdf) and [Learning about Merge Sorting](https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.htm)**
 
 -----------------------------------------------------------------------
 
