@@ -173,3 +173,7 @@
 - [X] **Day-43:-** **Weekend Break with [AlgoMagnet Communication Session on Open source](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Arijit%20Sen%20Chaudhuri%20sir/session.md) by Goldman Sachs Analyst Rajat Mittal Sir💕**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-44:-** **[Learned about Linked List](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Linked%20List)**
+
+-----------------------------------------------------------------------
