@@ -177,3 +177,7 @@
 - [X] **Day-44:-** **Learned about [counting number of nodes, sum of elements, finding max element, searching](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Linked%20List) in Linked List**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-45:-** **Learn about Insertion in Linked List, Reversing in Linked List, Reversal of Array, Rotation of Array**
+
+-----------------------------------------------------------------------
