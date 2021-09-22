@@ -174,7 +174,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-44:-** **Learned about [counting number of nodes, sum of elements, finding max element, searching](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Linked%20List) in Linked List**
+- [X] **Day-44:-** **Learned about [counting number of nodes](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/creating%20a%20function%20and%20a%20recursive%20function%20to%20show%20the%20count%20and%20sum%20of%20digits%20in%20a%20Linked%20list.c), [sum of elements](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/creating%20a%20function%20and%20a%20recursive%20function%20to%20show%20the%20count%20and%20sum%20of%20digits%20in%20a%20Linked%20list.c), [finding max element](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/finding%20maximum%20element%20in%20a%20linked%20list.c), [searching](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Improved%20Search%20in%20Linear%20Searching_Linked%20List.c) in Linked List**
 
 -----------------------------------------------------------------------
 
