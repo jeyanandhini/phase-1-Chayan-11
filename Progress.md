@@ -178,6 +178,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-45:-** **Learn about Insertion in Linked List, Reversing in Linked List, Reversal of Array, Rotation of Array**
+- [X] **Day-45:-** **Learned about [Inserting nodes in Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Inserting%20node%20in%20linked%20list.c), Reversing in Linked List, Reversal of Array, [Rotation of Array](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Arrays/array%20rotation%20by%20one%20position%20to%20left.c)**
 
 -----------------------------------------------------------------------
