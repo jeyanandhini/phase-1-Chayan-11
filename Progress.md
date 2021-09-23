@@ -186,6 +186,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-47:-** **Learning to [Insert new node in Linked List at a sorted position](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Inserting%20new%20node%20in%20a%20sorted%20list%20at%20a%20sorted%20position.c) and [creating new node in linked list using Insert function](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/creating%20new%20node%20in%20linked%20list%20using%20Insert%20function.c)**
+- [X] **Day-47:-** **Learning to [Insert new node in Linked List at a sorted position](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Inserting%20new%20node%20in%20a%20sorted%20list%20at%20a%20sorted%20position.c) and [creating new node in Linked List using Insert function](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/creating%20new%20node%20in%20linked%20list%20using%20Insert%20function.c)**
 
 -----------------------------------------------------------------------
