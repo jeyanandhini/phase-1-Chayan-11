@@ -9,3 +9,5 @@
 ------------------------------------------------------------------
 > * [**TSMC (Taiwan) Career Page**](https://www.tsmc.com/static/english/careers/index.htm)
 ------------------------------------------------------------------
+> * [**Early career by Twitter**](https://careers.twitter.com/en/early-career.html)
+------------------------------------------------------------------
