@@ -190,6 +190,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-48:-** **Learn how to check for loop in Linked List and checking if a Linked List is sorted or not and removing duplicates from Linked List**
+- [X] **Day-48:-** **Learn how to check for loop in Linked List, checking if a Linked List is sorted or not and removing duplicates from Linked List**
 
 -----------------------------------------------------------------------
