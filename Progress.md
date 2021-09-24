@@ -182,7 +182,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-46:-** **Read an article on [Readme.md file](https://www.geeksforgeeks.org/what-is-readme-md-file/) and learning deletion in linked list**
+- [X] **Day-46:-** **Read an article on [Readme.md file](https://www.geeksforgeeks.org/what-is-readme-md-file/) and learned [deleting nodes in linked list](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/deleting%20nodes%20from%20a%20linked%20list.c)**
 
 -----------------------------------------------------------------------
 
