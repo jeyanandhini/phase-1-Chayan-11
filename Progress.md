@@ -193,3 +193,7 @@
 - [X] **Day-48:-** **Learn how to check for loop in Linked List, checking if a Linked List is sorted or not and removing duplicates from Linked List**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-49:-** **Read about the [Cycle Detection Algorithm](https://www.geeksforgeeks.org/brents-cycle-detection-algorithm/) and learned how to reverse Linked List using sliding pointers**
+
+-----------------------------------------------------------------------
