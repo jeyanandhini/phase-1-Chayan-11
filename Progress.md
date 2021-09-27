@@ -182,7 +182,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-46:-** **Read an article on [Readme.md file](https://www.geeksforgeeks.org/what-is-readme-md-file/), learned [deleting nodes in linked list](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/deleting%20nodes%20from%20a%20linked%20list.c) and [Implemented basic operations of Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Implementing%20singly%20Linked%20List%20with%20Insert%2C%20delete%20and%20display%20operations.cpp) in cpp**
+- [X] **Day-46:-** **Read an article on [Readme.md file](https://www.geeksforgeeks.org/what-is-readme-md-file/), learned [deleting nodes in linked list](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/deleting%20nodes%20from%20a%20linked%20list.c) and [Implemented basic operations](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Implementing%20singly%20Linked%20List%20with%20Insert%2C%20delete%20and%20display%20operations.cpp) in cpp**
 
 -----------------------------------------------------------------------
 
