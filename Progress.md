@@ -190,7 +190,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-48:-** **Learn how to check for loop in Linked List, checking if a Linked List is sorted or not and removing duplicates from Linked List**
+- [X] **Day-48:-** **Learn how to check for loop in Linked List, [checking if a Linked List is sorted or not](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/checking%20whether%20a%20Linked%20List%20is%20sorted%20or%20not.c) and [removing duplicates from Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/removing%20duplicates%20from%20a%20sorted%20Linked%20List.c)**
 
 -----------------------------------------------------------------------
 
@@ -199,5 +199,9 @@
 -----------------------------------------------------------------------
 
 - [X] **Day-50:-** **Weekend Break with [AlgoMagnet Session on Software Development](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Gourav%20Sir%2C%20SDE%202%20%40%20Amazon/session.md) with insights from SDE-2 @Amazon, Gourav Sir 💕**
+
+-----------------------------------------------------------------------
+
+- [X] **Day-51:-** **Learned about Recursive reverse for Linked List, Concatenating 2 Linked Lists and Merging 2 Linked Lists**
 
 -----------------------------------------------------------------------
