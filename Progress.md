@@ -202,6 +202,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-51:-** **Learned about [Recursive reverse for Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/reversing%20a%20linked%20list%20using%20sliding%20pointers.c)**
+- [X] **Day-51:-** **Learned about [Recursive reverse for Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/reversing%20a%20linked%20list%20using%20sliding%20pointers.c), Concatenating Linked List and Merging linked List**
 
 -----------------------------------------------------------------------
