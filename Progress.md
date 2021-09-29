@@ -178,7 +178,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-45:-** **Learned about [Inserting nodes in Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Inserting%20node%20in%20linked%20list.c), Reversing in Linked List, Reversal of Array, [Rotation of Array](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Arrays/array%20rotation%20by%20one%20position%20to%20left.c)**
+- [X] **Day-45:-** **Learned about [Inserting nodes in Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Inserting%20node%20in%20linked%20list.c), [Reversing in Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Reversing%20a%20Linked%20List%20by%20reversing%20the%20elements%20using%20Auxiliary%20array.c), Reversal of Array, [Rotation of Array](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Arrays/array%20rotation%20by%20one%20position%20to%20left.c)**
 
 -----------------------------------------------------------------------
 
@@ -194,7 +194,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-49:-** **Read about the [Cycle Detection Algorithm](https://www.geeksforgeeks.org/brents-cycle-detection-algorithm/) and learned how to reverse Linked List using sliding pointers**
+- [X] **Day-49:-** **Read about the [Cycle Detection Algorithm](https://www.geeksforgeeks.org/brents-cycle-detection-algorithm/) and learned how to [reverse Linked List using sliding pointers](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Reversing%20a%20linked%20list%20using%20sliding%20pointers%20method.c)**
 
 -----------------------------------------------------------------------
 
@@ -202,6 +202,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-51:-** **Learned about [Recursive reverse for Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/reversing%20a%20linked%20list%20using%20sliding%20pointers.c), Concatenating Linked List and Merging linked List**
+- [X] **Day-51:-** **Learned about [Recursive reverse for Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/reversing%20a%20linked%20list%20using%20sliding%20pointers.c), [Concatenating two Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/concatenation%20of%20two%20Linked%20Lists.c) and Merging linked List**
 
 -----------------------------------------------------------------------
