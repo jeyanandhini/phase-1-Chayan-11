@@ -198,7 +198,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-50:-** **Weekend Break with [AlgoMagnet Session on Software Development](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Gourav%20Sir%2C%20SDE%202%20%40%20Amazon/session.md) with insights from SDE-2 @Amazon, Gourav Sir 💕**
+- [X] **Day-50:-** **Weekend Break + [AlgoMagnet Session on Software Development](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session%20with%20Gourav%20Sir%2C%20SDE%202%20%40%20Amazon/session.md) with insights from SDE-2 @Amazon, Gourav Sir 💕**
 
 -----------------------------------------------------------------------
 
