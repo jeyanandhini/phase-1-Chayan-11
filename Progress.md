@@ -209,3 +209,7 @@
 - [X] **Day-52:-** **Learned about [Reversing elements using auxiliary array](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/Reversing%20a%20Linked%20List%20by%20reversing%20the%20elements%20using%20Auxiliary%20array.c), done with [Git](https://git-scm.com/downloads) Installation, [Git Commands](https://git-scm.com/docs/git) and how to [create a PR](https://opensource.com/article/19/7/create-pull-request-github) !**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-53:-** **Studied about Circular Linked List and displaying Circular Linked List**
+
+-----------------------------------------------------------------------
