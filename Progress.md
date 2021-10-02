@@ -217,3 +217,7 @@
 - [X] **Day-54:-** **Study about Pointers in 1D array, 2D array and how to pass arrays, also study about cryptography for Hashing**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-55:-** **Contributed to Hacktoberfest 2021 projects**
+
+-----------------------------------------------------------------------
