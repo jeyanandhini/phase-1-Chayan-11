@@ -218,6 +218,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-55:-** **Contributed to Hacktoberfest 2021 projects**
+- [X] **Day-55:-** **Contributed to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 2021 projects**
 
 -----------------------------------------------------------------------
