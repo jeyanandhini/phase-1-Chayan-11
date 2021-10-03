@@ -221,3 +221,7 @@
 - [X] **Day-55:-** **Contributed to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 2021 projects**
 
 -----------------------------------------------------------------------
+
+- [X] **Day-56:-** **Contributing to Hacktoberfest + AlgoMagnet Ex-Com Communication Session + Weekend Break**
+
+-----------------------------------------------------------------------
