@@ -226,6 +226,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-57:-** **Watched [Hashing Algorithms and Security](https://www.youtube.com/watch?v=b4b8ktEV4Bg) by Computerphile**
+- [X] **Day-57:-** **Watched [Hashing Algorithms and Security](https://www.youtube.com/watch?v=b4b8ktEV4Bg) and [Secure Hashing Algorithm](https://www.youtube.com/watch?v=DMtFhACPnTY) *SHA* by Computerphile**
 
 -----------------------------------------------------------------------
