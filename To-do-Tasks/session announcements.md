@@ -126,3 +126,7 @@
 - [X] [**GitHub Doc to learn how to create an issue, creating PR, etc**](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- [X] [**Watch this video on Hashing Algorithms and Security**](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
