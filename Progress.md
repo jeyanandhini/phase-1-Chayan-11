@@ -218,11 +218,11 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-55:-** **Contributed to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 2021 projects**
+- [X] **Day-55:-** **Contributed to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 2021 projects and made my [1st](https://github.com/Chayan-11) Pull Request**
 
 -----------------------------------------------------------------------
 
-- [X] **Day-56:-** **Contributing to Hacktoberfest + AlgoMagnet Ex-Com Communication Session + Weekend Break**
+- [X] **Day-56:-** **Contributing to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) + AlgoMagnet Ex-Com Communication Session + Weekend Break**
 
 -----------------------------------------------------------------------
 
