@@ -123,7 +123,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- [X] [**GitHub Doc to learn how to create an issue, creating PR, etc**](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+- [X] [**GitHub Doc to learn how to create an issue, generating PR, etc**](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
