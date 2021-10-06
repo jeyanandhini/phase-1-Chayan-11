@@ -214,7 +214,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-48:-** **Learn how to check for loop in Linked List, [checking if a Linked List is sorted or not](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/checking%20whether%20a%20Linked%20List%20is%20sorted%20or%20not.c) and [removing duplicates from Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/removing%20duplicates%20from%20a%20sorted%20Linked%20List.c)**
+- [X] **Day-48:-** **Learned [checking if a Linked List is sorted or not](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/checking%20whether%20a%20Linked%20List%20is%20sorted%20or%20not.c) and [removing duplicates from Linked List](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Linked%20List/removing%20duplicates%20from%20a%20sorted%20Linked%20List.c)**
 
 -----------------------------------------------------------------------
 
@@ -248,7 +248,7 @@
 
 </br>
 
-- [X] **Day-54:-** **Study about Pointers in 1D array, 2D array and how to pass arrays, also study about cryptography for Hashing**
+- [X] **Day-54:-** **Study about [Pointers in 1D array](https://overiq.com/c-programming-101/pointers-and-1-d-arrays/), [2D array](https://www.oreilly.com/library/view/understanding-and-using/9781449344535/ch04.html) and also study about [Cryptography](https://www.section.io/engineering-education/understand-hashing-in-cryptography/) for Hashing**
 
 -----------------------------------------------------------------------
 
@@ -268,7 +268,7 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-59:-** **Discussion on Minesweeper Project and research about it**
+- [X] **Day-59:-** **Discussion on [Minesweeper game](https://www.wikihow.com/Play-Minesweeper) and started reading research paper on [Algorithmic approach to play Minesweeper](https://dash.harvard.edu/bitstream/handle/1/14398552/BECERRA-SENIORTHESIS-2015.pdf)**
 
 -----------------------------------------------------------------------
  
