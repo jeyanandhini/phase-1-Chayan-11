@@ -1,6 +1,12 @@
 ### <p align="center"> ⏳ Daily Progress Tracker 🚶‍♂️ </p>
 
------------------------------------------------------------------
+#
+
+
+### <p align="center"> 🗓 August </p>
+
+</br>
+
 - [X] **Day-1:-** **Recursion tutorial from YouTube and [practiced few problems from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Recursion)** 
 
 ---------------------------------------------------------------------
@@ -124,7 +130,11 @@
 
 - [X] **Day-31:-** **Learning about [2D-Arrays](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)**
 
------------------------------------------------------------------------
+#
+
+### <p align="center"> 🗓 September </p>
+
+</br>
 
 - [X] **Day-32:-** **Practiced and learned about Sorting Algorithms like [Bubble Sort](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Sorting%20Algorithms/Bubble%20Sort.md) and [Insertion Sort](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Sorting%20Algorithms/Insertion%20Sort%20Algorithm.md)**
 
