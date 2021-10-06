@@ -121,11 +121,10 @@
 
 - [X] **Day-27:-** **ToastMaster Session with [ToastMaster Jakarta Motivators Club](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Toastmasters%20Jakarta%20Motivators%20Club/Session%20Experience.md)💕**
 
------------------------------------------------------------------------
-
 </table>
-    
 
+</br>
+    
 <table>
 	<tr>
 		 <td>
@@ -236,10 +235,10 @@
 
 - [X] **Day-53:-** **Studied about Circular Linked List and displaying Circular Linked List**
 
------------------------------------------------------------------------
  
  </table>
  
+ </br>
  
  <table>
 	<tr>
@@ -271,6 +270,4 @@
 
 - [X] **Day-59:-** **Discussion on [Minesweeper game](https://www.wikihow.com/Play-Minesweeper) and started reading research paper on [Algorithmic approach to play Minesweeper](https://dash.harvard.edu/bitstream/handle/1/14398552/BECERRA-SENIORTHESIS-2015.pdf) !**
 
------------------------------------------------------------------------
- 
  </table>
