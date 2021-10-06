@@ -116,6 +116,10 @@
 
 -----------------------------------------------------------------------
 
+### <p align="center"> 🗓 September </p>
+
+</br>
+
 - [X] **Day-28:-** **Learning the concept of [Maximum Heap](http://www.btechsmartclass.com/data_structures/max-heap.html) and [Tree](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm) and also learned about [Partition Algorithm](https://www.youtube.com/watch?v=MZaf_9IZCrc)**
 
 -----------------------------------------------------------------------
@@ -130,11 +134,7 @@
 
 - [X] **Day-31:-** **Learning about [2D-Arrays](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)**
 
-#
-
-### <p align="center"> 🗓 September </p>
-
-</br>
+------------------------------------------------------------------------
 
 - [X] **Day-32:-** **Practiced and learned about Sorting Algorithms like [Bubble Sort](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Sorting%20Algorithms/Bubble%20Sort.md) and [Insertion Sort](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Sorting%20Algorithms/Insertion%20Sort%20Algorithm.md)**
 
@@ -224,6 +224,10 @@
 
 -----------------------------------------------------------------------
 
+### <p align="center"> 🗓 October </p>
+
+</br>
+
 - [X] **Day-54:-** **Study about Pointers in 1D array, 2D array and how to pass arrays, also study about cryptography for Hashing**
 
 -----------------------------------------------------------------------
@@ -241,5 +245,9 @@
 -----------------------------------------------------------------------
 
 - [X] **Day-58:-** **Exam prep break 📚**
+
+-----------------------------------------------------------------------
+
+- [X] **Day-59:-** **Discussion on Minesweeper Project and research about it**
 
 -----------------------------------------------------------------------
