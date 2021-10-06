@@ -2,7 +2,7 @@
 
 #
 
-<img src="https://img.shields.io/badge/Chayan's-Daily--Streaks-red"/>
+<img src="https://img.shields.io/badge/Chayan's-Daily--Streaks-red"/> <img src="https://img.shields.io/badge/Suggestions-Welcomed-blue"/>
 
 </br>
 
