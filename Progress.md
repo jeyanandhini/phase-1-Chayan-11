@@ -2,11 +2,18 @@
 
 #
 
-
-### <p align="center"> 🗓 August </p>
+<img src="https://img.shields.io/badge/Chayan's-Daily--Streaks-red"/>
 
 </br>
 
+<table>
+	<tr>
+		 <td>
+    
+### <p align="center"> 🗓 August </p>
+    
+</br>
+ 
 - [X] **Day-1:-** **Recursion tutorial from YouTube and [practiced few problems from Let Us C](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Recursion)** 
 
 ---------------------------------------------------------------------
@@ -116,6 +123,13 @@
 
 -----------------------------------------------------------------------
 
+</table>
+    
+
+<table>
+	<tr>
+		 <td>
+    
 ### <p align="center"> 🗓 September </p>
 
 </br>
@@ -223,6 +237,12 @@
 - [X] **Day-53:-** **Studied about Circular Linked List and displaying Circular Linked List**
 
 -----------------------------------------------------------------------
+ 
+ </table>
+ 
+ <table>
+	<tr>
+		 <td>
 
 ### <p align="center"> 🗓 October </p>
 
@@ -251,3 +271,5 @@
 - [X] **Day-59:-** **Discussion on Minesweeper Project and research about it**
 
 -----------------------------------------------------------------------
+ 
+  </table>
