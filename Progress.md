@@ -270,4 +270,8 @@
 
 - [X] **Day-59:-** **Discussion on [Minesweeper game](https://www.wikihow.com/Play-Minesweeper) and started reading research paper on [Algorithmic approach to play Minesweeper](https://dash.harvard.edu/bitstream/handle/1/14398552/BECERRA-SENIORTHESIS-2015.pdf) !**
 
+-----------------------------------------------------------------------
+	
+- [X] **Day-60:-** **Exam prep break 📚**	
+	
  </table>
