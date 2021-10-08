@@ -10,7 +10,7 @@
 	<tr>
 		 <td>
     
-### <p align="center"> 🗓 August </p>
+### <p align="center"> 🗓 `August` </p>
     
 </br>
  
@@ -129,7 +129,7 @@
 	<tr>
 		 <td>
     
-### <p align="center"> 🗓 September </p>
+### <p align="center"> 🗓 `September` </p>
 
 </br>
 
@@ -244,7 +244,7 @@
 	<tr>
 		 <td>
  
-### <p align="center"> 🗓 October </p>
+### <p align="center"> 🗓 `October` </p>
 
 </br>
 
@@ -272,6 +272,10 @@
 
 -----------------------------------------------------------------------
 	
-- [X] **Day-60:-** **Exam prep break 📚**	
+- [X] **Day-60:-** **Exam prep break 📚**
+	
+-----------------------------------------------------------------------
+	
+- [X] **Day-61:-** **Discussion on Linear, Spiral, Diagonal and Wave Traversing & revised Linked List concepts**
 	
  </table>
