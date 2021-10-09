@@ -278,4 +278,8 @@
 	
 - [X] **Day-61:-** **Discussion on Linear, Spiral, Diagonal and Wave Traversing & revised Linked List concepts**
 	
+-----------------------------------------------------------------------
+	
+- [X] **Day-62:-** **Studying the Minesweeper Project + Weekend Break**
+	
  </table>
