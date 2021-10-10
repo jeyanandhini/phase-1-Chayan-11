@@ -282,4 +282,8 @@
 	
 - [X] **Day-62:-** **Studying the Minesweeper Project + Weekend Break**
 	
+-----------------------------------------------------------------------
+	
+- [X] **Day-63:-** **Weekend Break + AlgoMagnet Communication Session on Table Topics**
+	
  </table>
