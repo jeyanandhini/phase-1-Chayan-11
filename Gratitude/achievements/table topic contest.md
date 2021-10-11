@@ -12,7 +12,7 @@
 
 </br>
 
-### <p align= "center"> Won the Table Topic Contest held on 10-10-21 🎉 </p>
+### <p align= "center"> `Won` the Table Topic Contest held on `10-10-21` 🎉 </p>
 
 ### <p align= "center"> Topic : Which one would I choose between Offline & Online Classes ? </p>
 
