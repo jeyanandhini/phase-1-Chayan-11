@@ -285,5 +285,9 @@
 -----------------------------------------------------------------------
 	
 - [X] **Day-63:-** **Weekend Break + [AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/AlgoMagnet%20Communication%20Session/Session%20on%20Table%20Topics%20with%20Sowmya%20Arumulla%20Ma'am.md) 💕 on Table Topics with Guest Judge Sowmya Arumulla Ma'am !**
+
+-----------------------------------------------------------------------
+
+- [X] **Day-64:-** **Discussion on [Minesweeper](https://ankitkeshavdbg.github.io/MineSweeper/) Project and also got featured on [Junior Tech Weekly](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Gratitude/achievements/first-blog.md) for my blog on Markdown Syntax !**
 	
  </table>
