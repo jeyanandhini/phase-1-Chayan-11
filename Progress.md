@@ -288,6 +288,6 @@
 
 -----------------------------------------------------------------------
 
-- [X] **Day-64:-** **Discussion on [Minesweeper](https://ankitkeshavdbg.github.io/MineSweeper/) Project and also got featured on [Junior Tech Weekly](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Gratitude/achievements/first-blog.md) for my blog on Markdown Syntax !**
+- [X] **Day-64:-** **Discussion on [Minesweeper](https://ankitkeshavdbg.github.io/MineSweeper/) Project and also got featured on [Junior Tech Weekly](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Gratitude/first-blog.md) for my blog on Markdown Syntax !**
 	
  </table>
