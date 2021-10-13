@@ -291,8 +291,11 @@
 - [X] **Day-64:-** **Discussion on [Minesweeper](https://ankitkeshavdbg.github.io/MineSweeper/) Project and also got featured on [Junior Tech Weekly](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Gratitude/first-blog.md) for my blog on Markdown Syntax !**
 	
 -----------------------------------------------------------------------
-	
 
-- [X] **Day-65:-** **Discussion on [Bubble sorting in Linked List](https://cppsecrets.com/users/101611099712197110107114971065149535048484864103109971051084699111109/C00-Bubble-Sort-in-LinkedList-.php) and [Introduction to Hashing](https://www.youtube.com/watch?v=vKKBq5JvPrw)**
+- [X] **Day-65:-** **Discussion on [Bubble sorting](https://cppsecrets.com/users/101611099712197110107114971065149535048484864103109971051084699111109/C00-Bubble-Sort-in-LinkedList-.php) in Linked List and Introduction to [Hashing](https://www.youtube.com/watch?v=vKKBq5JvPrw)**
+	
+-----------------------------------------------------------------------
+	
+- [X] **Day-66:-** **Discussion on Selection Sort in arrays and gave the AM_Test**
 	
  </table>
