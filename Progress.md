@@ -6,8 +6,8 @@
 
 </br>
 
-# [August](#🗓-august)
-# [September](#🗓-september)
+# [August](#august)
+# [September](#september)
 <table>
 	<tr>
 		 <td>
@@ -131,7 +131,7 @@
 	<tr>
 		 <td>
     
-### <p align="center"> 🗓 `September` </p>
+### 🗓 `September` 
 
 </br>
 
