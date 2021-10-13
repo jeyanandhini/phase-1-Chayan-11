@@ -296,6 +296,6 @@
 	
 -----------------------------------------------------------------------
 	
-- [X] **Day-66:-** **Discussion on Selection Sort in arrays and gave the AM_Test**
+- [X] **Day-66:-** **Discussion on [Selection Sort](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Arrays/selection%20sort%20in%20arrays.c) in arrays and attempted the AlgoMagnet_Test**
 	
  </table>
