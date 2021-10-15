@@ -302,4 +302,7 @@
 
 - [X] **Day-67:-** **Studied the [Selection Sort](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Sorting%20Algorithms/selection%20sort.cpp) Algorithm in arrays**
 	
+-----------------------------------------------------------------------
+	
+- [X] **Day-68:-** **Discussion on Implementation of Insertion sorting in Linked list**
  </table>
