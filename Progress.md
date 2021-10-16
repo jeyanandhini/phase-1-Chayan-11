@@ -308,5 +308,5 @@
 	
 -----------------------------------------------------------------------
 	
-- [X] **Day-69:-** **Implemented [Insertion Sort](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Sorting%20Algorithms/Insertion%20sort.cpp) in arrays + Weekend Break
+- [X] **Day-69:-** **Implemented [Insertion Sort](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Sorting%20Algorithms/Insertion%20sort.cpp) in arrays + Weekend Break**
  </table>
