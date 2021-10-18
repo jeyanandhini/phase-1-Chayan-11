@@ -314,4 +314,7 @@
 	
 - [X] **Day-70:-** **Weekend Break + [Completed `Hacktoberfest-2021` edition](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Gratitude/Hacktoberfest.md)💕**
 	
+-----------------------------------------------------------------------
+	
+- [X] **Day-71:-** **Discussion on Matrix Multiplication in 2-D arrays and [Image Processing](https://www.geeksforgeeks.org/digital-image-processing-basics/) basics**
  </table>
