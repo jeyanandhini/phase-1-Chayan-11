@@ -316,5 +316,6 @@
 	
 -----------------------------------------------------------------------
 	
-- [X] **Day-71:-** **Discussion on Matrix Multiplication in 2-D arrays and [Image Processing](https://www.geeksforgeeks.org/digital-image-processing-basics/) basics**
+- [X] **Day-71:-** **Discussion on Matrix Multiplication in 2-D arrays and [Image Processing](https://www.geeksforgeeks.org/digital-image-processing-basics/) basics + [All about APIs](https://blog.postman.com/intro-to-apis-what-is-an-api/) and Everything about [Postman](https://www.postman.com/company/about-postman/)**
+	
  </table>
