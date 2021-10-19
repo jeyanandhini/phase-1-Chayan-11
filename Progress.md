@@ -318,4 +318,8 @@
 	
 - [X] **Day-71:-** **Discussion on Matrix Multiplication in 2-D arrays + [Image Processing](https://www.geeksforgeeks.org/digital-image-processing-basics/) basics + All about [APIs](https://blog.postman.com/intro-to-apis-what-is-an-api/) + What is [Postman](https://www.postman.com/company/about-postman/) ?**
 	
+-----------------------------------------------------------------------
+
+- [X] **Day-72:-** **Revised the concept of [Sorting](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Data%20Structures/Array/Sorting%20Algorithms) and [Searching](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Data%20Structures/Array/Searching%20Algorithms) in Arrays** 
+	
  </table>
