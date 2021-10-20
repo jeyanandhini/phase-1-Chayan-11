@@ -6,6 +6,8 @@
 
 </br>
 
+* [August](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--august-)
+
 <table>
 	<tr>
 		 <td>
