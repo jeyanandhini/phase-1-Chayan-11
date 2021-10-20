@@ -321,5 +321,9 @@
 -----------------------------------------------------------------------
 
 - [X] **Day-72:-** **Revised the concept of [Sorting](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Data%20Structures/Array/Sorting%20Algorithms) and [Searching](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Data%20Structures/Array/Searching%20Algorithms) in Arrays** 
+
+-----------------------------------------------------------------------
+	
+- [X] **Day-73:-** ***BREAK***
 	
  </table>
