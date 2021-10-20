@@ -4,10 +4,14 @@
 
 <img src="https://img.shields.io/badge/Chayan's-Daily--Streaks-red"/> <img src="https://img.shields.io/badge/Suggestions-Welcomed-blue"/>
 
-</br>
+### 💭 Table of Content
+#
+* ***Jump To :*** 
+   * **[August](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--august-)**
+   * **[September](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--september-)**
+   * **[October](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--october-)**
 
-* [August](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--august-)
-* [September](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--september-)
+</br>
 
 <table>
 	<tr>
