@@ -7,6 +7,7 @@
 </br>
 
 * [August](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--august-)
+* [September](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--september-)
 
 <table>
 	<tr>
