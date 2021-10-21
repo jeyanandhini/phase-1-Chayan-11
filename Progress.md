@@ -333,4 +333,8 @@
 	
 - [X] **Day-73:-** ***BREAK***
 	
+-----------------------------------------------------------------------
+
+- [X] **Day-74:-** **Discussion on Research Internship [EPFL](https://summer.epfl.ch/apply.html) and choosing domain of Interest + Practiced previous concepts of [Arrays](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Data%20Structures/Array)**
+	
  </table>
