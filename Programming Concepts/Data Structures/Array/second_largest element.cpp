@@ -56,3 +56,14 @@ int main()
 	else
 	   cout <<  "The Second largest element in the array is : " << arr[index] << endl;
 }
+
+
+/*
+
+Time Complexity: O(n). 
+That's because only one traversal of the array is required.
+
+Auxiliary space: O(1). 
+Since no extra space is required.
+
+*/
