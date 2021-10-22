@@ -1,9 +1,8 @@
-----------------------------------------------------------
-# <p align="center"> 📽 Movies to Checkout! </p> 
 
-### <p align="left"> 💡 Lights </p> <p align="center"> 📷 Camera </p> <p align="right"> 🎢 Action </p> 
+### <p align="center"> 📽 Movies to Checkout! </p> 
 
-----------------------------------------------------------
+#
+
 
 > * **Watch 💯💯💯 *300* on** [**Amazon Prime Video**](https://app.primevideo.com/detail?gti=amzn1.dv.gti.2eb346cf-941a-53ea-13c5-9461e7e3318a&ref_=atv_dp_share_mv&r=web) 
 ----------------------------------------------------------
