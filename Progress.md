@@ -336,5 +336,9 @@
 -----------------------------------------------------------------------
 
 - [X] **Day-74:-** **Discussion on Research Internship [EPFL](https://summer.epfl.ch/apply.html) and choosing domain of Interest + Practiced previous concepts of [Arrays](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Data%20Structures/Array)**
+
+-----------------------------------------------------------------------
 	
+- [X] **Day-75:-** **Research about [Plane Sweep Algorithm](https://www.niser.ac.in/~aritra/PlaneSweepAlgorithm.pdf) and discussion on [Counting Sort Algorithm](https://www.javatpoint.com/counting-sort)**
+
  </table>
