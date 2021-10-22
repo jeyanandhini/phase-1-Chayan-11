@@ -339,6 +339,6 @@
 
 -----------------------------------------------------------------------
 	
-- [X] **Day-75:-** **Research about [Plane Sweep Algorithm](https://www.niser.ac.in/~aritra/PlaneSweepAlgorithm.pdf) and discussion on [Counting Sort Algorithm](https://www.javatpoint.com/counting-sort)**
+- [X] **Day-75:-** **Research about [Plane Sweep Algorithm](https://www.niser.ac.in/~aritra/PlaneSweepAlgorithm.pdf), discussion on [Counting Sort Algorithm](https://www.javatpoint.com/counting-sort) and implemented [Sorting algorithms in Linked List](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Data%20Structures/Linked%20List/Sorting%20Algorithms)**
 
  </table>
