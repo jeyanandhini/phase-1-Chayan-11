@@ -351,6 +351,6 @@
 	
 -----------------------------------------------------------------------
 	
-- [X] **Day-78:-** **Discussion on [Heap](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/tutorial/) (i.e.) [Priority Queue](https://www.tutorialspoint.com/data_structures_algorithms/priority_queue.htm) and added few problems in [arrays](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Data%20Structures/Array/1-D%20Array) + got to know about some Research Internship opportunities !**	
+- [X] **Day-78:-** **Discussion on [Heap](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/tutorial/) (i.e.) [Priority Queue](https://www.tutorialspoint.com/data_structures_algorithms/priority_queue.htm) and added few problems in [arrays](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Data%20Structures/Array/1-D%20Array) + Research Internship opportunities !**	
 
  </table>
