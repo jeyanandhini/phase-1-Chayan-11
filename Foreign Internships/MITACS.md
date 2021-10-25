@@ -1,4 +1,4 @@
---------------------------------------------------------------------------------------------
+#
 
 ## <p align="center"> 🏆 MITACS </p> 
 
@@ -15,7 +15,7 @@
   <img width="460" height="300" src="https://www.mitacs.ca/sites/default/files/uploads/newsroom/mitacs_colour.jpg">
 </p>
 
---------------------------------------------------------------------------------------------
+#
 
 ## <p align="center"> ⏳ Resources and Web Links for MITACS Global Research Internship </p>
 
@@ -37,6 +37,6 @@
 
 #### <p align="center"> ◻ NOTE:- ❌ NIT Agartala isn't registered in MITACS Program </p> 
 
---------------------------------------------------------------------------------------------
+#
 
 <p align="center">  Give it a ⭐ if you find it useful! </p>
