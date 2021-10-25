@@ -4,6 +4,7 @@
 
 #
 
+</br>
 
 | &nbsp; &nbsp; **`Internship Name`** &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **`Blogs on Experience`** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **`Country`** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |:-------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------:|
@@ -23,6 +24,8 @@
 | **[Research Internship at IIIT Bangalore](https://www.iiitb.ac.in/summer-internship)** | **NA** | **India** |
 | **[LTRC at IIIT Hyderabad](https://ltrc.iiit.ac.in/)** | **NA** | **India** |
 | **[QCRI](https://www.hbku.edu.qa/en/qcri)** | **NA**| **Qatar** |
+
+</br>
 
 #
  
