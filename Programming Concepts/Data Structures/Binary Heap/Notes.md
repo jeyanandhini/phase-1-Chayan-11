@@ -19,6 +19,10 @@
 * **max-heap property : The value of each node is less than or equal to the value of its parent, with the maximum-value element at the root.** 
 **This same property is recursively true for all nodes in the Binary Tree.**
 
+![Max Heap and Min Heap Diagram](https://algorithmtutor.com/images/max-and-min-heap.png)
+
+            Max Heap                                       Min Heap 
+
 </br>
 
 ## Features of Binary Heap
