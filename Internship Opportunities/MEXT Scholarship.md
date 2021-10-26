@@ -1,4 +1,4 @@
---------------------------------------------------------------------------------------------
+#
 
 ## <p align="center"> 🏆MEXT Scholarship </p>
 
@@ -7,7 +7,7 @@
 * **Embassy of Japan in India has said that the purpose of these scholarship programs is to accept excellent human resources from foreign countries, including India, to Japan as international students.**
 * **According to Japanese Embassy, this scholarship programme will promote mutual understanding with foreign countries and to form human networks, to strengthen the educational and research abilities of Japanese universities and to make international intellectual contributions.**
 
--------------------------------------------------------------------------------------------
+#
 
 ## <p align="center"> ⏳ Resources and Web Links for MEXT Scholarship </p>
 
@@ -16,6 +16,5 @@
 - [X] **How to apply for [MEXT Scholarships?](https://www.transenzjapan.com/blog/applying-for-the-mext-scholarship-the-basics/)**
 - [X] **Everything you would need to know about [MEXT Scholarship](https://www.fluentu.com/blog/japanese/mext-scholarship/)** 
 
--------------------------------------------------------------------------------------------
+#
 
-<p align="center">  Give it a ⭐ if you find it useful! </p>
