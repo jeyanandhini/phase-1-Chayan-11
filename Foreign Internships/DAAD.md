@@ -1,11 +1,12 @@
---------------------------------------------------------------------------------------------
+#
 
-## <p align="center"> 🏆 DAAD </p>
+## <p align="center"> 💢 DAAD </p>
+
 
 * **The German Academic Exchange Service, or DAAD (German:- Deutscher Akademischer Austauschdienst) was founded in 1925 and is the largest German support organisation in the field of international academic co-operation.**
 * **DAAD is a private, federally funded and state-funded, self-governing national agency of the institutions of higher education in Germany, representing 365 German higher education institutions.**
 
--------------------------------------------------------------------------------------------
+#
 
 ## <p align="center"> ⏳ Resources and Web Links for DAAD Internship </p>
 
@@ -21,6 +22,5 @@
 
 - [X] **Do keep an eye on their [official Website](https://www.daad.in/en/)**
 
--------------------------------------------------------------------------------------------
+#
 
-<p align="center">  Give it a ⭐ if you find it useful! </p>
