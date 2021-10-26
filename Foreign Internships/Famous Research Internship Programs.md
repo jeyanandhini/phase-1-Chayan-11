@@ -24,7 +24,7 @@
 | **[Research Internship at IIIT Bangalore](https://www.iiitb.ac.in/summer-internship)** | **NA** | **India** |
 | **[LTRC at IIIT Hyderabad](https://ltrc.iiit.ac.in/)** | **NA** | **India** |
 | **[QCRI](https://www.hbku.edu.qa/en/qcri)** | **NA**| **Qatar** |
-
+| **[Charpak Scholarship](https://www.inde.campusfrance.org/charpak-scholarships)** | **NA** | **France** |
 </br>
 
 #
