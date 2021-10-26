@@ -26,7 +26,7 @@
 | **[LTRC at IIIT Hyderabad](https://ltrc.iiit.ac.in/)** | **NA** | **India** |
 | **[QCRI](https://www.hbku.edu.qa/en/qcri)** | **NA**| **Qatar** |
 | **[Charpak Scholarship](https://www.inde.campusfrance.org/charpak-scholarships)** | **[Available](https://internfeel.com/charpak_riteshgupta/)** | **France** |
-
+| **[IBM Summer Research 2022](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101)** | **NA** | **India** |
 </br>
 
 #
