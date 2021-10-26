@@ -27,6 +27,7 @@
 | **[QCRI](https://www.hbku.edu.qa/en/qcri)** | **NA**| **Qatar** |
 | **[Charpak Scholarship](https://www.inde.campusfrance.org/charpak-scholarships)** | **[Available](https://internfeel.com/charpak_riteshgupta/)** | **France** |
 | **[IBM Summer Research 2022](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101)** | **NA** | **India** |
+| **[India Connect @NTU](https://www.ntu.edu.sg/education/student-exchanges/india-connect@ntu#Content_C067_Col01)** | **NA** | **India** | 
 </br>
 
 #
