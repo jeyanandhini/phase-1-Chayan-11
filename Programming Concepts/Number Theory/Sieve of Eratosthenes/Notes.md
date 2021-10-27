@@ -5,10 +5,17 @@
 * **After striking out the number 1, simply strike out every second number following the number 2, every third number following the number 3, and continue in this manner to strike out every nth number following the number n.**
 
 * **The numbers that remain are prime.** 
-
 </br>
 
+<table>
+	<tr>
+		 <td>
+    </br>
 
+![sieveoferatosthenes](https://user-images.githubusercontent.com/76246106/139143441-a2dba56d-741d-4e3a-8554-5b32d9d44ec9.png)
+
+</table>
+</br>  
 
 ## Algorithm
 
