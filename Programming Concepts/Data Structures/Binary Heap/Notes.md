@@ -36,3 +36,9 @@
 * **For any given element at position i its left child is at (2 * i)**
 * **For any given element at position i its right child is at (2 * i + 1)**
 * **For any given element at position i its parent node is at (i/2)**
+
+</br>
+
+### <p align="center"> For reference click [here](https://medium.com/enjoy-algorithm/introduction-to-heap-data-structure-9dd105c2449f) </p>
+
+#
