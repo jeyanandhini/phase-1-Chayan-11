@@ -7,6 +7,8 @@
 * **The numbers that remain are prime.** 
 </br>
 
+### Visuals 
+
 <table>
 	<tr>
 		 <td>
