@@ -24,7 +24,7 @@ int main()
 			case 2:
 				printf("Enter the elements to be deleted : ");
 				scanf("%d", &num);
-				delete (num);
+				delete(num);
 				break;
 			case 3:
 				display();
