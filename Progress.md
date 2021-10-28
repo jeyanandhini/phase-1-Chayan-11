@@ -363,5 +363,6 @@
 	
 -----------------------------------------------------------------------
 	
-- [X] **Day-81:-** **Discussion on Recursion basics and documented one of the [FAQs](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Recursion/FAQs%20in%20recursion.md) in Recursion**
+- [X] **Day-81:-** **Discussion on Recursion basics and documented one of the [FAQs](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Recursion/FAQs%20in%20recursion.md) in Recursion + practiced few problems in [Number Theory](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Number%20Theory)**
+	
  </table>
