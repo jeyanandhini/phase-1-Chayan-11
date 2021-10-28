@@ -361,4 +361,7 @@
 	
 - [X] **Day-80:-** **Discussion on Recursion basics and wrote a code for [Insertion and Deletion](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Data%20Structures/Binary%20Heap) in Heap**
 	
+-----------------------------------------------------------------------
+	
+- [X] **Day-81:-** **Discussion on Recursion basics and documented one of the [FAQs](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Recursion/FAQs%20in%20recursion.md) in Recursion**
  </table>
