@@ -365,4 +365,8 @@
 	
 - [X] **Day-81:-** **Discussion on Recursion basics and documented one of the [FAQs](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Recursion/FAQs%20in%20recursion.md) in Recursion + practiced few problems in [Number Theory](https://github.com/cleanhand/phase-1-Chayan-11/tree/main/Programming%20Concepts/Number%20Theory)**
 	
+-----------------------------------------------------------------------
+	
+- [X] **Day-82:-** **Basic Recursion Lecture and documented about [Golden Ratio](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Number%20Theory/Golden%20Ratio/Notes.md) and it's relation with [Fibonacci Sequence](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Recursion/Fibonacci%20sequence.c) !** 
+	
  </table>
