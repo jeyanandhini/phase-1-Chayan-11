@@ -1,12 +1,10 @@
-### <p align="center"> ⏳ Daily Progress Tracker 🚶‍♂️ </p>
+## <p align="center"> ⏳ Daily Progress Tracker 🚶‍♂️ </p>
 
-#
 
-<img src="https://img.shields.io/badge/Chayan's-Daily--Streaks-red"/> <img src="https://img.shields.io/badge/Suggestions-Welcomed-blue"/>
+<p align="center"><img src="https://img.shields.io/badge/Chayan's-Daily--Streaks-red"/> &nbsp; <img src="https://img.shields.io/badge/Suggestions-Welcomed-blue"/></p>
 
-### 💭 Table of Content
-#
-* ***Jump To :*** 
+## Table of Content
+
    * **[August](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--august-)**
    * **[September](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--september-)**
    * **[October](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Progress.md#--october-)**
@@ -131,7 +129,7 @@
 </table>
 
 </br>
-    
+
 <table>
 	<tr>
 		 <td>
