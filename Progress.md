@@ -367,4 +367,8 @@
 	
 - [X] **Day-82:-** **Basic Recursion Lecture and documented about [Golden Ratio](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Number%20Theory/Golden%20Ratio/Notes.md) and it's relation with [Fibonacci Sequence](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Recursion/Fibonacci%20sequence.c) !** 
 	
+-----------------------------------------------------------------------
+	
+- [X] **Day-83:-** **Weekend Break**
+	
  </table>
