@@ -389,5 +389,9 @@
 </br>
 	
 - [X] **Day-85:-** **Discussion on Recursion concepts + got started with [Linux Commands](https://www.freecodecamp.org/news/the-linux-commands-handbook/) and [Professional E-mail Writing](https://www.coursera.org/learn/professional-emails-english) from Coursera**
+
+-----------------------------------------------------------------------
+	
+- [X] **Day-86:-** **Discussion on [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) problem**
 	
  </table>
