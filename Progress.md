@@ -400,5 +400,5 @@
 	
 -----------------------------------------------------------------------
 	
-- [X] **Day-88:-** **Discussion on [Tower of Hanoi](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Recursion/Tower%20of%20Hanoi.c) code and got to know about [Jira](https://en.wikipedia.org/wiki/Jira_(software)) and it's alternative [OpenProject](https://en.wikipedia.org/wiki/OpenProject)**
+- [X] **Day-88:-** **Discussion on [Tower of Hanoi](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Recursion/Tower%20of%20Hanoi.c) code and got to know about [Jira](https://en.wikipedia.org/wiki/Jira_(software))[©](https://www.atlassian.com/software/jira/guides/use-cases/what-is-jira-used-for#jira-for-agile-teams) and it's alternative [OpenProject](https://en.wikipedia.org/wiki/OpenProject)[©](https://www.openproject.org/) **
  </table>
