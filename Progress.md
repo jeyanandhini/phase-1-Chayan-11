@@ -400,5 +400,6 @@
 	
 -----------------------------------------------------------------------
 	
-- [X] **Day-88:-** **Discussion on [Tower of Hanoi](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Recursion/Tower%20of%20Hanoi.c) code and got to know about [Jira](https://en.wikipedia.org/wiki/Jira_(software))[©](https://www.atlassian.com/software/jira/guides/use-cases/what-is-jira-used-for#jira-for-agile-teams) and it's alternative [OpenProject](https://en.wikipedia.org/wiki/OpenProject)[©](https://www.openproject.org/) **
+- [X] **Day-88:-** **Discussion on [Tower of Hanoi](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Programming%20Concepts/Recursion/Tower%20of%20Hanoi.c) code and got to know about [Jira](https://en.wikipedia.org/wiki/Jira_(software))[©](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=93058444980&campaign=9124878606&creative=542638212437&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51242181056&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=CjwKCAjwiY6MBhBqEiwARFSCPpAvbMDdRPyM_g1ePkybuHHsVsfBTJgA4et6-J-Nt0bwhn1et0EPpBoCMKMQAvD_BwE&gclsrc=aw.ds) and it's alternative [OpenProject](https://en.wikipedia.org/wiki/OpenProject)[©](https://www.openproject.org/)**
+	
  </table>
