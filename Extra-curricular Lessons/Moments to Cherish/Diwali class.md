@@ -12,3 +12,8 @@
   </table>
 
 </br> 
+
+## Key points to Learn
+
+* **Never forget** ***Consistency*** **drives us in long run !**
+* **Anytime you feel burn out, just hold on and cherish these moments and buckle up, that's the only source of** ***Motivation !***  
