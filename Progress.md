@@ -396,7 +396,7 @@
 	
 -----------------------------------------------------------------------
 
-- [X] **Day-87:-** ***BREAK*** + **Studied [Linux Commands](https://www.freecodecamp.org/news/the-linux-commands-handbook/)**
+- [X] **Day-87:-** ***BREAK*** + **Studied [Linux Commands](https://www.freecodecamp.org/news/the-linux-commands-handbook/) + Read about [Confluence](https://www.atlassian.com/software/confluence?&aceid=&adposition=&adgroup=101907930671&campaign=9612158811&creative=425988944147&device=c&keyword=what%20is%20confluence&matchtype=e&network=g&placement=&ds_kids=p52349416800&ds_e=GOOGLE&ds_eid=700000001542923&ds_e1=GOOGLE&gclid=CjwKCAjwiY6MBhBqEiwARFSCPrJflXbq7cO6K2MGsiARlw3zkBSXgXN7gHiAsZjURMF1qM2L1bOPrBoCKwIQAvD_BwE&gclsrc=aw.ds)[©](https://www.atlassian.com/software/confluence) Software !**
 	
 -----------------------------------------------------------------------
 	
