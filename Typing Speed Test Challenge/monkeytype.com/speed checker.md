@@ -10,3 +10,4 @@
 | 02-11-21 | [40 WPM](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Typing%20Speed%20Test%20Challenge/Screenshots/November/02-11-21.md) | 98 % |
 | 03-11-21 | [40 WPM](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Typing%20Speed%20Test%20Challenge/Screenshots/November/03-11-21.md) | 93 % |
 | 04-11-21 | [42 WPM](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Typing%20Speed%20Test%20Challenge/Screenshots/November/04-11-21.md) | 98 % | 
+| 05-11-21 | [43 WPM](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Typing%20Speed%20Test%20Challenge/Screenshots/November/05-11-21.md) | 97 % |
