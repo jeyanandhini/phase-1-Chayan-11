@@ -406,4 +406,8 @@
 	
 - [X] **Day-89:-** **Discussion on Recursion problem + revision of Tower of Hanoi and got started with [Stacks-I](https://www.youtube.com/watch?v=K9KawZqLqag)**
 	
+-----------------------------------------------------------------------
+	
+- [X] **Day-90:-** **Weekend Break + Completed a course on Introduction to Python by [DataCamp](http://www.datacamp.com/) + Progressed on Professional E-mail Writing Course**
+	
  </table>
