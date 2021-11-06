@@ -1,4 +1,4 @@
-## Tower of Hanoi
+## <p align = "center"> Tower of Hanoi </p>
 
 * **The Tower of Hanoi is one of main applications of recursion. It says if you can solve (n-1) cases, then you can easily solve the nth case.**
 
