@@ -408,6 +408,6 @@
 	
 -----------------------------------------------------------------------
 	
-- [X] **Day-90:-** **Weekend Break + Completed a course on Introduction to Python by [DataCamp](http://www.datacamp.com/) + Learned Professional E-mail Writing Course**
+- [X] **Day-90:-** **Weekend Break + Completed a course on Introduction to Python by [DataCamp](http://www.datacamp.com/) + Learning Professional E-mail Writing**
 	
  </table>
