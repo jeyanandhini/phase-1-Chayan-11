@@ -1,22 +1,18 @@
-# 🔴Recursion
+## Recursion
 
-**⏩ Definition:---**
+* **It is possible for functions to call themselves !**
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* **A function is called 'Recursive' if a statement within the body of the function calls the same function, also reffered to as 'circular definition'.**
 
-> *It is possible for functions to call themselves!*
+* **When we make a function call(recursive or normal), the parameters and the return address gets stored at a place in memory known as Stack.**
 
-> *A function is called 'Recursive' if a statement within the body of the function calls the same function, also reffered to as 'circular definition'.*
+* **The stack gets unwounded when the control returns from the called function, and thus during every recursive function call we work with fresh set of parameters.**
 
-> *When we make a function call(recursive or normal), the parameters and the return address gets stored at a place in memory known as Stack.*
+* **We must use if statement in recursive function to force the function to return without recursive call being executed. This is because we will fall in an indefinite loop and the stack will keep on getting filled with parameters and the return adress each time there is a call, and eventually will result in run-time error as stack would become full then.**
 
-> *The stack gets unwounded when the control returns from the called function, and thus during every recursive function call we work with fresh set of parameters.*
+</br>
 
-> *We must use if statement in recursive function to force the function to return without recursive call being executed. This is because we will fall in an indefinite loop and the stack will keep on getting filled with parameters and the return adress each time there is a call, and eventually will result in run-time error as stack would become full then.*
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-**⏩ Raw Code:-**
+## Raw Code
 
 ```
 int recursion(x)
@@ -27,12 +23,9 @@ int recursion(x)
 }
 ```
 
+</br>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**⏩ Calculate the factorial value of an integer using non-recursive function.**
-
-
+## Calculate the factorial value of an integer using non-recursive function
 
 ```
 #include<stdio.h>
@@ -64,11 +57,9 @@ Enter any integer:-
 Factorial value = 720
 ```
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</br>
 
-**⏩ Calculating factorial of an integer value using recursive function.**
-
-
+## Calculating factorial of an integer value using recursive function
 
 ```
 #include<stdio.h>
@@ -102,4 +93,4 @@ Enter any integer:-
 Factorial value = 40320
 ```
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#
