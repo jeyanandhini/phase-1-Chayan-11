@@ -410,4 +410,8 @@
 	
 - [X] **Day-90:-** **Weekend Break + Completed a course on Introduction to Python by [DataCamp](http://www.datacamp.com/) + Learning Professional E-mail Writing**
 	
+-----------------------------------------------------------------------
+	
+- [X] **Day-91:-** **Weekend Break + attended JD Toastmasters Club meeting with folks from Harvard, MIT, NASA + Learning Professional E-mail Writing & Excel course**
+	
  </table>
