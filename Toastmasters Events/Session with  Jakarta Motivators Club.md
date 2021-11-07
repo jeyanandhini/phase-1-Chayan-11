@@ -41,6 +41,7 @@
 
 </br>
 
+> © ***[Chayan-11](https://github.com/Chayan-11)***
 <table>
 	<tr>
 		 <td>
@@ -52,7 +53,6 @@
   </br>
 </table>
 
-> © ***[Chayan-11](https://github.com/Chayan-11)***
-
+> ***Checkout us getting featured @ [Jakarta Motivators Club](https://www.instagram.com/p/CTo2bXZPFI8/?utm_source=ig_web_copy_link)***
 
 # 
