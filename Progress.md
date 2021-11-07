@@ -412,6 +412,6 @@
 	
 -----------------------------------------------------------------------
 	
-- [X] **Day-91:-** **Weekend Break + attended [JD Toastmasters Club meeting](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Toastmasters%20Events/JD%20Toastmasters%20meeting.md) + Learning Professional E-mail Writing & Excel Essential course**
+- [X] **Day-91:-** **Weekend Break + attended [DJ Toastmasters Club meeting](https://github.com/cleanhand/phase-1-Chayan-11/blob/main/Toastmasters%20Events/JD%20Toastmasters%20meeting.md) + Learning Professional E-mail Writing & Excel Essential course**
 	
  </table>
