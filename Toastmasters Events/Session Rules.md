@@ -75,5 +75,21 @@
 
 * **Most importantly listen to the speakers and as we say `A good Speaker is first a good Listener`** 
 
+</br>
 
+<table>
+	<tr>
+		 <td>
+
+</br>
+
+![image](https://user-images.githubusercontent.com/76246106/140659866-14153c74-836f-4452-8562-1d1f20e58a68.png)
+
+       
+</br>
+</table> 
+
+</br>
+
+> ***Source : [toastmasters.org](https://www.toastmasters.org/)***
 #
