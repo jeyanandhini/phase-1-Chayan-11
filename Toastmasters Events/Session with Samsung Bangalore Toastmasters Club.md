@@ -2,7 +2,9 @@
 ## <p align = "center"> First ToastMaster session experience in Samsung Bangalore club ❤ </p>
 
 
-**`Trivia`**
+**`Checklist`**
+
+> ***Got out of my Comfort Zone and started public speaking***
 
 <table>
 	<tr>
