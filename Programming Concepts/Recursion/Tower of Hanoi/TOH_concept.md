@@ -56,8 +56,9 @@
 ```
 </br>
 
-**`NOTE` For n disks, total (2^n – 1) moves are required**
+**`NOTE`   For n disks, total (2^n – 1) moves are required**
 </br>
-- [X] **For animation, checkout [TowerofHanoi.info](http://towersofhanoi.info/Animate.aspx)**
+
+> **For animation, checkout [TowerofHanoi.info](http://towersofhanoi.info/Animate.aspx)**
 
 #
