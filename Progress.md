@@ -412,6 +412,6 @@
 	
 -----------------------------------------------------------------------
 	
-- [X] **Day-91:-** **Weekend Break + attended JD Toastmasters Club meeting with folks from Harvard, MIT, NASA + Learning Professional E-mail Writing & Excel course**
+- [X] **Day-91:-** **Weekend Break + attended JD Toastmasters Club meeting + Learning Professional E-mail Writing & Excel Essential course**
 	
  </table>
