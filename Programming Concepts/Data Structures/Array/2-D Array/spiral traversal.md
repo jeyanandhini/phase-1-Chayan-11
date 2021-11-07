@@ -27,4 +27,4 @@
 ```
 </br>
 
-***For watching the visualization, click [here](https://www.educative.io/edpresso/spiral-matrix-algorithm)***
+> ***For watching the visualization, click [here](https://www.educative.io/edpresso/spiral-matrix-algorithm)***
