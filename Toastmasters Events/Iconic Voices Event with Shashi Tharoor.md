@@ -23,7 +23,21 @@
 
 * **Always remember your own authenticity and integrity is one of the fundamentals and without it effective communication is futile.**
 
-#
+</br>
+
+> © ***[Chayan-11](https://github.com/Chayan-11)***
+
+<table>
+	<tr>
+		 <td>
+
+</br>
+
+![image](https://user-images.githubusercontent.com/76246106/140661159-1eed7b95-f768-48c9-8865-cff6f1824a2a.png)
+
+  </br>
+</table> 
+
 
 
 
