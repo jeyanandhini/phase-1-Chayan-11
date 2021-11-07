@@ -4,8 +4,16 @@
 
 **`Trivia`**
 
+<table>
+	<tr>
+		 <td>
+
+</br>
+   
 <img src="https://user-images.githubusercontent.com/76246106/140659286-e1c6a526-dfa1-47d0-83fb-d21aa256acef.png" alt="Motivation" width="1200"/>
 
+   </br>
+</table>
 </br>
 
 ## Session Rules
